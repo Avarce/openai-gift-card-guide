@@ -104,6 +104,8 @@ OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权�
 
 AONIR 是面向国内用户的 AI 订阅充值服务，支持 ChatGPT Plus / Pro、Claude Pro，微信支付，充值到用户本人官方账号，不提供共享账号。
 
+有 iPhone 或 iPad、希望自己操作 Apple 礼品卡的用户，可参考另一篇已完成实测的教程：[ChatGPT Plus 国内充值指南（2026）：美区 Apple 礼品卡实测](https://github.com/Avarce/chatgpt-plus-china-guide)。
+
 ## 怎样判断是不是官方礼品卡
 
 看到新商品页时，先检查下面这条证据链：
