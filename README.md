@@ -100,7 +100,7 @@ OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权�
 | 你的情况 | 更合适的做法 |
 | --- | --- |
 | 已有 OpenAI 支持的付款方式 | 直接在 ChatGPT 网页端订阅 |
-| 希望使用微信支付、减少操作步骤 | [了解 AONIR ChatGPT Plus / Pro 充值流程](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_table) |
+| 希望使用微信支付、减少操作步骤 | [了解 AONIR ChatGPT Plus / Pro 充值流程](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_table) |
 
 AONIR 是面向国内用户的 AI 订阅充值服务，支持 ChatGPT Plus / Pro、Claude Pro，微信支付，充值到用户本人官方账号，不提供共享账号。
 
@@ -159,9 +159,6 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 </p>
 <p align="center"><sub>图 3：账单页面已经出现「兑换礼品卡」入口；当前 US$0.00 是兑换前状态。</sub></p>
 
-> [!CAUTION]
-> **这张图只能证明账号已经出现 Wallet 和兑换入口，不能证明购买或兑换已经成功。** 真正实测后，需要用「兑换成功页 + 非零 Wallet balance + Gift card 交易记录」组成完整证据链。
-
 ## 如何用 Wallet 开通 Plus 或 Pro
 
 礼品卡兑换成功后，还要单独完成订阅购买：
@@ -177,9 +174,6 @@ ChatGPT Wallet 会自动优先抵扣，用户不能指定「这次只使用一�
 
 [OpenAI 当前帮助页](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)显示 ChatGPT Plus 为 $20/月，但最终应以账号结账页显示为准，税费可能使应付总额高于 $20。不要只按标价购买刚好等额的礼品卡，再假设一定能够覆盖最终账单。
 
-> [!NOTE]
-> **亲测后还需补图：** Plus 结账页中的 Wallet applied、税费和 Due today，以及订阅生效后的计划状态与 Wallet 剩余余额。
-
 ## 第三方「ChatGPT 礼品卡」注意事项
 
 搜索「ChatGPT Gift Card」时，可能会看到 Rewarble 或其他第三方 voucher。它们不一定是假产品，但**不等于这次 OpenAI 新上线的官方礼品卡**。
@@ -187,7 +181,7 @@ ChatGPT Wallet 会自动优先抵扣，用户不能指定「这次只使用一�
 > [!CAUTION]
 > Rewarble 的流程是先在其网站兑换 voucher，再生成带卡号、有效期和 CVV 的 Reward Card；其页面也明确声明与展示品牌没有背书、关联或赞助关系。OpenAI Gift Card 则应直接在 chatgpt.com/redeem 兑换并进入 ChatGPT Wallet。
 
-判断时只看两个关键点：**是否直接在 chatgpt.com/redeem 兑换，以及兑换结果是否进入 ChatGPT Wallet。** 对于仍写着「即将开售」或登记到货通知的页面，在其公布可验证货源前，先把它当作预告，不要当作已经完成交付的证据。
+判断时只看两个关键点：**是否直接在 chatgpt.com/redeem 兑换，以及兑换结果是否进入 ChatGPT Wallet。**
 
 ## 常见问题
 
