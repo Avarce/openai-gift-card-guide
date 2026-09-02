@@ -4,20 +4,20 @@
 ![Updated](https://img.shields.io/badge/updated-2026--09--02-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后核对：2026 年 9 月 2 日 17:44（北京时间）**
+> **最后核对：2026 年 9 月 2 日 21:47（北京时间）**
 >
-> **当前状态：** OpenAI 已公布 Gift Card 的购买、兑换和钱包规则，并称数字礼品卡可从部分参与计划的授权零售商购买；但截至上述时间，[OpenAI 官方帮助页](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)仍未列出任何零售商名称或购买链接。本文的公开检索也尚未找到能由 OpenAI 官方页面反向验证的零售商商品页。
+> **当前状态：** OpenAI 已公布 Gift Card 的购买、兑换和钱包规则，2026 年 9 月 1 日生效的完整条款也已上线；但 [OpenAI 官方帮助页](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)仍未列出任何零售商名称或购买链接。
 >
-> 所以，这一版是「**官方规则核对 + 购买渠道追踪 + 兑换流程预案**」，不是已经完成购买的实测报告。等可验证渠道出现并完成亲测后，我会补上零售商、实际付款、送达时间、关键截图和失败记录。
+> **截至核对时间，公开渠道里还没有找到。**
 
 ## 30 秒结论
 
-OpenAI Gift Card 是用于 ChatGPT 的美元储值礼品卡。兑换后，礼品卡的全部金额会进入该账号的 ChatGPT Wallet，再由钱包在符合条件的 ChatGPT 网页结账中自动抵扣。
+OpenAI Gift Card 是用于 ChatGPT 的美元储值礼品卡，卡片为一次性加载，不能再次加值。兑换后，礼品卡的全部金额会进入该账号的 ChatGPT Wallet，再由钱包在符合条件的 ChatGPT 网页结账中自动抵扣。
 
 目前最重要的限制有五条：
 
 1. **购买和兑换当前仅限美国。**
-2. 兑换人必须真实身处美国，并使用美国、美元计费的 ChatGPT 账号。
+2. 兑换人必须真实身处美国，并使用美国、美元计费的 ChatGPT 账号；USD 余额不能抵扣其他币种的账单。
 3. 官方礼品卡 PIN 直接在 [chatgpt.com/redeem](https://chatgpt.com/redeem) 兑换。
 4. 兑换礼品卡只会增加 Wallet balance，**不会自动开通 Plus 或 Pro**。
 5. Wallet 不能支付 Apple App Store、Google Play 管理的订阅，也不能支付 OpenAI API 账单。
@@ -42,6 +42,11 @@ OpenAI Gift Card 是用于 ChatGPT 的美元储值礼品卡。兑换后，礼品
 
 它不是一张银行卡，也不是直接开通一个月会员的订阅码。
 
+<p align="center">
+  <img src="./images/05-openai-gift-card-designs.webp" width="960" alt="OpenAI ChatGPT Gift Card 的卡面设计示例">
+</p>
+<p align="center"><sub>图 1：完整条款站展示的 OpenAI ChatGPT Gift Card 卡面设计。</sub></p>
+
 正确的资金路径是：
 
 ~~~mermaid
@@ -65,28 +70,46 @@ flowchart LR
 - 不会进入 Apple ID 或 Google Play 余额；
 - 不会生成一张可在其他商户使用的通用支付卡。
 
-官方目前说明，礼品卡通常可购买的金额范围为 **$15–$250**，但具体金额、数字卡或实体卡形式都由零售商决定。网上常见的 $15、$25、$50、$100、$200、$250 列表，不应在没有真实零售商页面佐证时写成固定的「官方面额」。
+2026 年 9 月 1 日生效的完整条款确认了这些关键信息：
+
+| 项目 | 条款内容 |
+| --- | --- |
+| 使用范围 | 先全额兑换到 OpenAI 账号，再用于 OpenAI 平台内符合条件的在线交易；不能当作通用支付卡使用 |
+| 卡片形式 | 实体卡或数字码（E-card），实际供应形式由零售商决定 |
+| 购买金额 | 通常单张 **$15–$250**；单人购买多张时，每日合计不得超过 **$2,000** |
+| 是否可重复加值 | **卡片本身不可再次加值**；同一 OpenAI 账号可以兑换一张或多张符合条件的卡，但仍受账户余额和安全限制 |
+| 到期与余额费用 | 条款不设到期日，也不收取卡内余额费用；长期未使用时仍可能适用美国州无主财产规则 |
+| 退款与流通 | 通常不能退款、兑换现金或有偿转售；可以无偿赠送他人，适用法律另有要求的除外 |
+| 法律发行方 | CIMI2604, Inc. 是发卡方和礼品卡义务承担方；OpenAI 不是发卡方 |
+
+具体金额选项仍由零售商决定。网上常见的 $15、$25、$50、$100、$200、$250 列表，不应在没有真实零售商页面佐证时写成固定的「官方面额」。
 
 ## 现在在哪里购买
 
-OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权零售商购买，实体卡也会通过参与计划的零售商销售。
+OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权零售商购买，实体卡也会通过参与计划的零售商销售。完整条款进一步说明，礼品卡必须从参与计划的零售商正确购买并激活；从未授权卖家、转售商或拍卖网站取得的卡可能无效。
 
 <p align="center">
   <img src="./images/01-openai-buy-gift-card.png" width="960" alt="OpenAI 官方帮助页 Buy a gift card，说明数字礼品卡由部分零售商提供，金额通常为 15 至 250 美元">
 </p>
-<p align="center"><sub>图 1：OpenAI 官方目前只写明「部分零售商」以及通常为 $15–$250，具体供应时间、形式和金额由零售商决定。</sub></p>
+<p align="center"><sub>图 2：OpenAI 官方目前只写明「部分零售商」以及通常为 $15–$250，具体供应时间、形式和金额由零售商决定。</sub></p>
 
 > [!CAUTION]
 > **重点：这张官方截图没有给出任何零售商名称或购买链接。** 它能证明礼品卡计划已经开放，不能证明某个第三方商家已经获得正式货源。
 
-但截至 2026 年 9 月 2 日 17:44（北京时间）：
+<p align="center">
+  <img src="./images/04-openai-gift-card-physical-example.webp" width="960" alt="OpenAI Gift Card 实体卡正反面示例，背面带有卡号和刮开后显示的 PIN">
+</p>
+<p align="center"><sub>图 3：完整条款站展示的实体卡示例。背面说明要求访问 chatgpt.com/redeem，并刮开涂层查看兑换信息。</sub></p>
+
+但截至 2026 年 9 月 2 日 21:47（北京时间）：
 
 | 检查项 | 当前结果 |
 | --- | --- |
 | OpenAI 官方帮助页是否确认计划存在 | 是 |
+| 2026-09-01 版完整条款是否已经发布 | 是 |
 | 官方页是否列出零售商名称 | 否 |
 | 官方页是否提供购买链接 | 否 |
-| 公开搜索是否找到可由 OpenAI 反向验证的商品页 | 暂未找到 |
+| 公开渠道是否找到可由 OpenAI 反向验证的商品页 | 暂未找到 |
 | 本文是否已经完成实购 | 否 |
 
 **截至核对时间，公开渠道里还没有找到。**
@@ -127,10 +150,11 @@ AONIR 是面向国内用户的 AI 订阅充值服务，支持 ChatGPT Plus / Pro
 | 人所在地区 | 兑换时真实身处美国 |
 | ChatGPT 账号 | 美国账号 |
 | 账号结算币种 | USD |
+| 购买来源 | 参与计划的零售商；卡片已经正确购买并激活 |
 | 工作区 | 确认兑换到最终使用的 Personal workspace；Business 场景需核对所有者权限 |
 | 当前订阅来源 | 网页端订阅，或目前没有订阅 |
 | Apple / Google 订阅 | 如当前由应用商店管理，需先取消并等待订阅实际结束 |
-| 购买金额 | 应覆盖计划价格和可能产生的税费 |
+| 购买金额 | 单张通常为 $15–$250，并应覆盖计划价格和可能产生的税费 |
 | 收件邮箱 | 能正常接收数字卡与收据 |
 
 OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发送给美国以外的人，并不会让对方自动获得兑换资格。
@@ -144,7 +168,7 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 <p align="center">
   <img src="./images/02-chatgpt-redeem-page.webp" width="1000" alt="ChatGPT 官方礼品卡兑换页面，在 Redeem your gift 窗口输入 PIN">
 </p>
-<p align="center"><sub>图 2：ChatGPT 官方兑换页面。OpenAI Gift Card 的 PIN 应直接在 chatgpt.com/redeem 输入。</sub></p>
+<p align="center"><sub>图 4：ChatGPT 官方兑换页面。OpenAI Gift Card 的 PIN 应直接在 chatgpt.com/redeem 输入。</sub></p>
 
 1. 在浏览器打开 [chatgpt.com/redeem](https://chatgpt.com/redeem)。
 2. 登录最终要充值的 ChatGPT 账号。
@@ -154,12 +178,12 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 6. 打开 ChatGPT 的 **Settings → Billing**。
 7. 检查 Wallet balance 和 Transaction history，确认礼品卡记录已经出现。
 
-兑换前务必检查账号。官方规则要求礼品卡全部金额一次性进入一个账号；兑换完成后，不能将余额移动到其他账号，也不能退回原卡。
+兑换前务必检查账号。官方规则要求礼品卡全部金额一次性进入一个账号；兑换完成后，原卡或兑换码不再有价值，余额不能移动到其他账号，也不能退回原卡。卡片本身不能再次加值，但可以继续向同一账号兑换其他符合条件的礼品卡，前提是不超过账户余额、每日加载和安全限制。
 
 <p align="center">
   <img src="./images/03-chatgpt-billing-wallet-before.png" width="820" alt="ChatGPT 账单设置页面，显示兑换礼品卡按钮和兑换前为零的钱包余额">
 </p>
-<p align="center"><sub>图 3：账单页面已经出现「兑换礼品卡」入口；当前 US$0.00 是兑换前状态。</sub></p>
+<p align="center"><sub>图 5：账单页面已经出现「兑换礼品卡」入口；当前 US$0.00 是兑换前状态。</sub></p>
 
 ## 如何用 Wallet 开通 Plus 或 Pro
 
@@ -190,7 +214,7 @@ ChatGPT Wallet 会自动优先抵扣，用户不能指定「这次只使用一�
 <details>
 <summary><strong>OpenAI Gift Card 现在到底可以买到了吗？</strong></summary>
 
-OpenAI 官方说数字卡可从部分参与计划的授权零售商购买，但截至 2026 年 9 月 2 日 17:44（北京时间），官方帮助页没有列出商家或购买链接，本文的公开检索也没有找到可由 OpenAI 反向验证的商品页。因此目前能确认「计划已经上线」，但还不能在本文中负责任地给出一个购买商家。
+OpenAI 官方说数字卡可从部分参与计划的授权零售商购买，但截至 2026 年 9 月 2 日 21:47（北京时间），官方帮助页没有列出商家或购买链接，公开渠道里也没有找到可由 OpenAI 反向验证的商品页。因此目前能确认「计划已经上线」，但还不能在本文中负责任地给出一个购买商家。
 
 </details>
 
@@ -232,14 +256,21 @@ OpenAI 官方说数字卡可从部分参与计划的授权零售商购买，但�
 <details>
 <summary><strong>礼品卡会过期吗？</strong></summary>
 
-官方条款目前写明礼品卡不设到期日，也不从卡内金额收取余额费用。兑换后的资金仍受 ChatGPT Wallet 相关条款约束。
+2026 年 9 月 1 日版条款写明，礼品卡不设到期日，也不从卡内余额收取费用；但长期未使用时，余额仍可能按美国州无主财产法律处理。因此准确说法是「不设到期日」，不应简化成「任何情况下永久有效」。
 
 </details>
 
 <details>
 <summary><strong>同一个账号能兑换多张吗？</strong></summary>
 
-可以按规则兑换多张符合条件的礼品卡，但会受到账号余额、安全和每日购买限制。官方没有公开所有风控阈值，因此不要把它理解成可以无限叠加。
+可以。卡片本身不可再次加值，但同一个 OpenAI 账号可以兑换一张或多张符合条件的礼品卡。完整条款规定，单人购买多张礼品卡时每日合计不得超过 $2,000；兑换仍受账户余额、每日加载和安全限制，因此不能理解成无限叠加。
+
+</details>
+
+<details>
+<summary><strong>礼品卡可以转卖或送人吗？</strong></summary>
+
+完整条款禁止有偿转售、交换或以物易物，但允许不收取对价地赠送给他人。收礼人仍必须符合美国地区、USD 账号和兑换资格要求。
 
 </details>
 
@@ -277,13 +308,14 @@ OpenAI 官方说数字卡可从部分参与计划的授权零售商购买，但�
 
 1. [OpenAI：Buying and redeeming OpenAI Gift Cards](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)
 2. [OpenAI：Using your ChatGPT wallet balance](https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance)
-3. [OpenAI Gift Card Terms and Conditions](https://mycardterms.com/openai/home/terms/)
+3. [OpenAI Gift Card Terms and Conditions（2026-09-01 生效）](https://mycardterms.com/openai/home/terms/)
 4. [OpenAI：Gifting credits in ChatGPT](https://help.openai.com/en/articles/20001417-gifting-credits-in-chatgpt)
 5. [OpenAI：What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)
 6. [Rewarble ChatGPT 页面](https://rewarble.com/brands/chatgpt)（仅用于区分第三方产品，不作为 OpenAI 授权证明）
 
 ### 更新记录
 
+- **2026-09-02 21:47（北京时间）：** 按 2026-09-01 版完整条款复核全文；补充实体卡与数字码、单卡 $15–$250、单人每日 $2,000 购买上限、卡片不可再次加值、多卡兑换、无主财产规则及禁止转售等边界；加入卡面和实体卡示例。官方帮助页仍未列出零售商名称或购买链接。
 - **2026-09-02：** 创建首版状态追踪与兑换教程；核对官方帮助页、Wallet 规则、礼品卡条款、第三方 voucher 路径及公开零售商搜索结果。加入官方购买说明、兑换页和兑换前 Wallet 三张截图；尚未发现 OpenAI 官方可反向验证的零售商购买页，未声称完成实购。
 
 ---
