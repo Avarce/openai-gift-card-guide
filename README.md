@@ -1,14 +1,14 @@
 # OpenAI Gift Card 怎么买？ChatGPT 官方礼品卡购买与兑换指南（2026）
 
 ![Status](https://img.shields.io/badge/status-tracking-orange)
-![Updated](https://img.shields.io/badge/updated-2026--09--02-blue)
+![Updated](https://img.shields.io/badge/updated-2026--09--06-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后核对：2026 年 9 月 2 日 21:47（北京时间）**
+> **最后核对：2026 年 9 月 6 日 05:06（北京时间）** · 本次复核 OpenAI 购买说明、Wallet 规则，并更新阅读入口。
 >
 > **当前状态：** OpenAI 已公布 Gift Card 的购买、兑换和钱包规则，2026 年 9 月 1 日生效的完整条款也已上线；但 [OpenAI 官方帮助页](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)仍未列出任何零售商名称或购买链接。
 >
-> **截至核对时间，公开渠道里还没有找到。**
+> **本仓库暂未收录经核对的零售商购买链接。**
 
 ## 30 秒结论
 
@@ -24,6 +24,8 @@ OpenAI Gift Card 是用于 ChatGPT 的美元储值礼品卡，卡片为一次性
 
 > [!IMPORTANT]
 > **当前最缺的不是兑换步骤，而是可验证的购买入口。** 在 OpenAI 公布零售商名单，或出现能与官方条款相互验证的正式商品页之前，不建议把任何第三方页面自称的「ChatGPT 礼品卡」直接当成 OpenAI Gift Card。
+
+**按你的目的继续：** [查购买渠道](#现在在哪里购买) · [已有礼品卡，查看兑换步骤](#官方兑换步骤) · [想现在开通会员，查看其他方式](#暂时没有购买渠道怎么选择)
 
 ## 目录
 
@@ -101,7 +103,7 @@ OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权�
 </p>
 <p align="center"><sub>图 3：完整条款站展示的实体卡示例。背面说明要求访问 chatgpt.com/redeem，并刮开涂层查看兑换信息。</sub></p>
 
-但截至 2026 年 9 月 2 日 21:47（北京时间）：
+截至 2026 年 9 月 6 日 05:06（北京时间），本次官方页面复核结果如下：
 
 | 检查项 | 当前结果 |
 | --- | --- |
@@ -109,25 +111,24 @@ OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权�
 | 2026-09-01 版完整条款是否已经发布 | 是 |
 | 官方页是否列出零售商名称 | 否 |
 | 官方页是否提供购买链接 | 否 |
-| 公开渠道是否找到可由 OpenAI 反向验证的商品页 | 暂未找到 |
+| 本文是否已收录经核对的零售商购买链接 | 尚未收录 |
 | 本文是否已经完成实购 | 否 |
 
-**截至核对时间，公开渠道里还没有找到。**
+**官方已经说明部分零售商提供数字卡；本文仍在等待可核对、可直接引用的购买链接。**
 
 ## 暂时没有购买渠道，怎么选择
 
-如果你关注的是 OpenAI Gift Card 本身，建议等待可验证的授权零售商出现，不要为了抢先尝试来源不明的产品。
+如果你想买的是 **OpenAI Gift Card**，继续关注上面的购买渠道核对结果；如果你实际想解决的是 **现在开通 ChatGPT**，可以直接按付款条件选择下一步。
 
-如果你的实际目的只是现在开通 ChatGPT，则不必把礼品卡当成唯一方案，可以按现有条件选择：
+| 你的情况 | 下一步入口 | 需要了解的内容 |
+| --- | --- | --- |
+| 已有 OpenAI 支持的付款方式 | [ChatGPT 官网计划](https://chatgpt.com/pricing/) | 在自己的账号中选择套餐并完成网页结账 |
+| 想用微信充值 ChatGPT Plus | **[AONIR Plus ¥168 / 月](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_plus)** | 查看账号要求后自助下单，充值到本人账号 |
+| 需要 Pro 的更高用量 | [AONIR Pro 5× / 20× 方案](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro) | 查看档位后联系客服确认安排 |
+| 有 iPhone / iPad，希望自行使用 Apple 礼品卡 | [Apple 礼品卡 4 步实测教程](https://github.com/Avarce/chatgpt-plus-china-guide#支付宝买美区礼品卡实测流程附截图) | 礼品卡进入 Apple 账户，再通过 ChatGPT iOS App 订阅 |
+| 还没确定采用哪种方式 | [无境外信用卡的五种开通路径](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_compare) | 按设备、付款条件与后续维护要求比较 |
 
-| 你的情况 | 更合适的做法 |
-| --- | --- |
-| 已有 OpenAI 支持的付款方式 | 直接在 ChatGPT 网页端订阅 |
-| 希望使用微信支付、减少操作步骤 | [了解 AONIR ChatGPT Plus / Pro 充值流程](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_table) |
-
-AONIR 是面向国内用户的 AI 订阅充值服务，支持 ChatGPT Plus / Pro、Claude Pro，微信支付，充值到用户本人官方账号，不提供共享账号。
-
-有 iPhone 或 iPad、希望自己操作 Apple 礼品卡的用户，可参考另一篇已完成实测的教程：[ChatGPT Plus 国内充值指南（2026）：美区 Apple 礼品卡实测](https://github.com/Avarce/chatgpt-plus-china-guide)。
+**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接用于购买会员充值服务；OpenAI Gift Card 的零售商购买入口仍由上节单独跟踪。AONIR 支持微信支付，充值到用户本人账号，不提供共享账号。
 
 ## 怎样判断是不是官方礼品卡
 
@@ -214,7 +215,7 @@ ChatGPT Wallet 会自动优先抵扣，用户不能指定「这次只使用一�
 <details>
 <summary><strong>OpenAI Gift Card 现在到底可以买到了吗？</strong></summary>
 
-OpenAI 官方说数字卡可从部分参与计划的授权零售商购买，但截至 2026 年 9 月 2 日 21:47（北京时间），官方帮助页没有列出商家或购买链接，公开渠道里也没有找到可由 OpenAI 反向验证的商品页。因此目前能确认「计划已经上线」，但还不能在本文中负责任地给出一个购买商家。
+OpenAI 官方已说明部分参与计划的授权零售商提供数字卡。截至 2026 年 9 月 6 日 05:06（北京时间），官方帮助页仍没有列出商家或购买链接，本仓库也暂未收录经核对的零售商商品页。可以确认官方已经宣布销售安排；具体购买入口继续在本文更新。
 
 </details>
 
@@ -314,6 +315,8 @@ OpenAI 官方说数字卡可从部分参与计划的授权零售商购买，但�
 6. [Rewarble ChatGPT 页面](https://rewarble.com/brands/chatgpt)（仅用于区分第三方产品，不作为 OpenAI 授权证明）
 
 ### 更新记录
+
+- **2026-09-06 05:06（北京时间）：** 复核 OpenAI 购买说明与 Wallet 帮助页；将“官方已宣布部分零售商销售”和“本文尚未收录可核对购买链接”分别写清。增加按阅读目的跳转的入口，区分 Plus 自助充值、Pro 咨询、Apple 礼品卡实测和方式比较。保留 9 月 2 日截图，未新增实购记录。
 
 - **2026-09-02 21:47（北京时间）：** 按 2026-09-01 版完整条款复核全文；补充实体卡与数字码、单卡 $15–$250、单人每日 $2,000 购买上限、卡片不可再次加值、多卡兑换、无主财产规则及禁止转售等边界；加入卡面和实体卡示例。官方帮助页仍未列出零售商名称或购买链接。
 - **2026-09-02：** 创建首版状态追踪与兑换教程；核对官方帮助页、Wallet 规则、礼品卡条款、第三方 voucher 路径及公开零售商搜索结果。加入官方购买说明、兑换页和兑换前 Wallet 三张截图；尚未发现 OpenAI 官方可反向验证的零售商购买页，未声称完成实购。
