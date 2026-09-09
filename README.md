@@ -1,14 +1,14 @@
 # OpenAI Gift Card 怎么买？ChatGPT 官方礼品卡购买与兑换指南（2026）
 
-![Status](https://img.shields.io/badge/status-tracking-orange)
-![Updated](https://img.shields.io/badge/updated-2026--09--06-blue)
+![Status](https://img.shields.io/badge/status-RaiseRight%20listed-success)
+![Updated](https://img.shields.io/badge/updated-2026--09--09-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后核对：2026 年 9 月 6 日 05:06（北京时间）** · 本次复核 OpenAI 购买说明、Wallet 规则，并更新阅读入口。
+> **最后核对：2026 年 9 月 9 日（北京时间）**
 >
-> **当前状态：** OpenAI 已公布 Gift Card 的购买、兑换和钱包规则，2026 年 9 月 1 日生效的完整条款也已上线；但 [OpenAI 官方帮助页](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)仍未列出任何零售商名称或购买链接。
+> **RaiseRight 已上架 OpenAI ChatGPT 电子礼品卡。** 本文已核对 [RaiseRight 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt)和其 [9 月 5 日品牌公告](https://www.raiseright.com/m/brand-updates/)，页面列出的金额范围为 **$15–$250**。
 >
-> **本仓库暂未收录经核对的零售商购买链接。**
+> 本次更新基于公开商品页、零售商帮助中心与 OpenAI 官方规则，**未进行实购或兑换**。
 
 ## 30 秒结论
 
@@ -22,16 +22,19 @@ OpenAI Gift Card 是用于 ChatGPT 的美元储值礼品卡，卡片为一次性
 4. 兑换礼品卡只会增加 Wallet balance，**不会自动开通 Plus 或 Pro**。
 5. Wallet 不能支付 Apple App Store、Google Play 管理的订阅，也不能支付 OpenAI API 账单。
 
-> [!IMPORTANT]
-> **当前最缺的不是兑换步骤，而是可验证的购买入口。** 在 OpenAI 公布零售商名单，或出现能与官方条款相互验证的正式商品页之前，不建议把任何第三方页面自称的「ChatGPT 礼品卡」直接当成 OpenAI Gift Card。
+以上使用条件见 [OpenAI 购买与兑换说明](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)。零售渠道上线后，美国地区和 USD 计费要求仍然适用。
 
-**按你的目的继续：** [查购买渠道](#现在在哪里购买) · [已有礼品卡，查看兑换步骤](#官方兑换步骤) · [想现在开通会员，查看其他方式](#暂时没有购买渠道怎么选择)
+> [!NOTE]
+> **先分清两个 Wallet：** RaiseRight Wallet 保存购买到的电子礼品卡；在 ChatGPT 官方页面完成兑换后，金额才会进入 ChatGPT Wallet。收到电子卡，不等于已经充值到 ChatGPT。
+
+**按你的目的继续：** [查看 RaiseRight 上架信息](#现在在哪里购买) · [购买流程与手续费](#raiseright-购买流程与手续费) · [国内用户怎么选择](#国内用户怎么选择) · [已有礼品卡，查看兑换步骤](#官方兑换步骤)
 
 ## 目录
 
 - [OpenAI Gift Card 到底是什么](#openai-gift-card-到底是什么)
 - [现在在哪里购买](#现在在哪里购买)
-- [暂时没有购买渠道，怎么选择](#暂时没有购买渠道怎么选择)
+- [RaiseRight 购买流程与手续费](#raiseright-购买流程与手续费)
+- [国内用户怎么选择](#国内用户怎么选择)
 - [怎样判断是不是官方礼品卡](#怎样判断是不是官方礼品卡)
 - [购买前资格检查](#购买前资格检查)
 - [官方兑换步骤](#官方兑换步骤)
@@ -84,51 +87,119 @@ flowchart LR
 | 退款与流通 | 通常不能退款、兑换现金或有偿转售；可以无偿赠送他人，适用法律另有要求的除外 |
 | 法律发行方 | CIMI2604, Inc. 是发卡方和礼品卡义务承担方；OpenAI 不是发卡方 |
 
-具体金额选项仍由零售商决定。网上常见的 $15、$25、$50、$100、$200、$250 列表，不应在没有真实零售商页面佐证时写成固定的「官方面额」。
+具体金额选项由零售商决定。RaiseRight 当前公开的是 **$15–$250 范围**，未登录商品页没有列出完整的金额选项或步进；购卡时查看登录后提供的选项。
 
 ## 现在在哪里购买
 
-OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权零售商购买，实体卡也会通过参与计划的零售商销售。完整条款进一步说明，礼品卡必须从参与计划的零售商正确购买并激活；从未授权卖家、转售商或拍卖网站取得的卡可能无效。
+### 已核对：RaiseRight
+
+**购买入口：[OpenAI ChatGPT · RaiseRight](https://www.raiseright.com/brands/1185-openai-chatgpt)**
 
 <p align="center">
-  <img src="./images/01-openai-buy-gift-card.png" width="960" alt="OpenAI 官方帮助页 Buy a gift card，说明数字礼品卡由部分零售商提供，金额通常为 15 至 250 美元">
+  <a href="./images/06-raiseright-chatgpt-product-20260909.png">
+    <img src="./images/06-raiseright-chatgpt-product-20260909.png" width="960" alt="2026 年 9 月 9 日 RaiseRight OpenAI ChatGPT 商品页，显示 eGift、15 至 250 美元金额范围、最高 3% 筹款收益和登录购买按钮">
+  </a>
 </p>
-<p align="center"><sub>图 2：OpenAI 官方目前只写明「部分零售商」以及通常为 $15–$250，具体供应时间、形式和金额由零售商决定。</sub></p>
+<p align="center"><sub>图 2：2026 年 9 月 9 日的 RaiseRight 商品页，展示电子卡、金额范围与登录购买入口。点击图片可查看原图。</sub></p>
 
-> [!CAUTION]
-> **重点：这张官方截图没有给出任何零售商名称或购买链接。** 它能证明礼品卡计划已经开放，不能证明某个第三方商家已经获得正式货源。
+RaiseRight 已在自己的品牌公告中介绍这款礼品卡，公告标注日期为 **2026 年 9 月 5 日**。9 月 9 日核对的商品页信息如下：
 
-<p align="center">
-  <img src="./images/04-openai-gift-card-physical-example.webp" width="960" alt="OpenAI Gift Card 实体卡正反面示例，背面带有卡号和刮开后显示的 PIN">
-</p>
-<p align="center"><sub>图 3：完整条款站展示的实体卡示例。背面说明要求访问 chatgpt.com/redeem，并刮开涂层查看兑换信息。</sub></p>
-
-截至 2026 年 9 月 6 日 05:06（北京时间），本次官方页面复核结果如下：
-
-| 检查项 | 当前结果 |
+| 项目 | 当前页面显示 |
 | --- | --- |
-| OpenAI 官方帮助页是否确认计划存在 | 是 |
-| 2026-09-01 版完整条款是否已经发布 | 是 |
-| 官方页是否列出零售商名称 | 否 |
-| 官方页是否提供购买链接 | 否 |
-| 本文是否已收录经核对的零售商购买链接 | 尚未收录 |
-| 本文是否已经完成实购 | 否 |
+| 商品名称 | OpenAI ChatGPT |
+| 卡片类型 | **eGift 电子礼品卡**；本次商品页仅列出这一类型 |
+| 金额范围 | **$15–$250**；具体可选金额以登录后的页面为准 |
+| 购买入口 | 需要先登录，才能加入购物车 |
+| 收取方式 | 电子交付并保存到 RaiseRight Wallet，也支持电子赠送 |
+| 页面收益 | 最高 **3% 筹款收益**，不是购卡结账直接减免 3% |
+| 兑换地址 | **chatgpt.com/redeem** |
+| 条款与发行方 | 指向 mycardterms.com/openai，列明 **CIMI2604, Inc.** 为发行方 |
 
-**官方已经说明部分零售商提供数字卡；本文仍在等待可核对、可直接引用的购买链接。**
+来源：[RaiseRight 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt) · [品牌上架公告](https://www.raiseright.com/m/brand-updates/)。页面信息可能调整，购买时再次查看当前金额、费用和交付说明。
 
-## 暂时没有购买渠道，怎么选择
+### 为什么本文现在可以收录这个入口
 
-如果你想买的是 **OpenAI Gift Card**，继续关注上面的购买渠道核对结果；如果你实际想解决的是 **现在开通 ChatGPT**，可以直接按付款条件选择下一步。
+这次核对到了三项相互对应的资料：**RaiseRight 自有域名商品页、其品牌上架公告，以及商品页列出的兑换地址和发行条款**。其中的兑换地址、发卡方和使用方式，与 OpenAI 帮助页及其链接的发卡条款对应。
+
+OpenAI 帮助页目前仍使用「部分零售商」的表述，没有逐一列出商家名称。本文据此将 RaiseRight 收录为**已核对的零售商购买入口**；这里的核对结果不代表已完成购买或成功兑换。
+
+<details>
+<summary><strong>查看原有官方说明和实体卡示例</strong></summary>
+
+<p align="center">
+  <img src="./images/01-openai-buy-gift-card.png" width="960" alt="2026 年 9 月 2 日保存的 OpenAI 官方购买说明截图，写明部分零售商提供数字卡以及通常为 15 至 250 美元">
+</p>
+<p align="center"><sub>图 3：2026 年 9 月 2 日保存的官方购买说明截图。它说明计划的一般规则；本文现已另行核对并收录 RaiseRight 商品页。</sub></p>
+
+<p align="center">
+  <img src="./images/04-openai-gift-card-physical-example.webp" width="960" alt="OpenAI Gift Card 条款站的实体卡正反面示例，并非 RaiseRight 实体卡在售证明">
+</p>
+<p align="center"><sub>图 4：条款站的实体卡示例，保留自原版教程。本次 RaiseRight 商品页仅列出 eGift，不能据此图推定它也在售实体卡。</sub></p>
+
+</details>
+
+## RaiseRight 购买流程与手续费
+
+### 1. 先确认自己能否使用 RaiseRight
+
+RaiseRight 是面向学校、团队和其他组织的筹款平台。普通参与者通过组织的 **enrollment code**（加入码）或邀请链接加入计划，再使用自己的账号购买；当前加入页面要求填写该代码，没有代码时应向计划负责人索取。见[加入码说明](https://support.raiseright.com/hc/en-us/articles/360058346553-Where-to-find-my-organization-s-enrollment-code)。
+
+购买前要同时确认两方面条件：**自己的 RaiseRight 账号能正常下单，以及最终使用的 ChatGPT 账号满足兑换和使用要求。**
+
+### 2. 核对金额、付款方式和费用
+
+登录后打开上面的商品页，确认金额和收取方式，再按页面进入结账。RaiseRight 帮助中心列出的付款方式包括：绑定个人银行账户、Mastercard / Visa / Discover 借记卡或信用卡，以及向计划负责人付款；具体可用方式取决于组织设置。[付款方式说明](https://support.raiseright.com/hc/en-us/articles/360050533834-What-payment-methods-can-I-use-to-buy-gift-cards)
+
+其当前公布的在线购卡费用如下：
+
+| 付款方式 | 每笔购卡订单的手续费 |
+| --- | --- |
+| 个人银行账户 ACH；组织已提供银行资料 | **$0.29** 固定费用 |
+| 个人银行账户 ACH；组织尚未提供银行资料 | **$0.79** 固定费用 |
+| 借记卡 | 订单总面值的 **1%** |
+| 信用卡 | 订单总面值的 **3%** |
+
+来源：[RaiseRight 手续费说明](https://support.raiseright.com/hc/en-us/articles/44378620085395-Convenience-fees-for-buying-gift-cards)。以上是购卡订单费用，不是从 ChatGPT 礼品卡余额扣除的管理费。
+
+**费用示例：** 如果用信用卡购买 $100 面值，按当前 3% 规则计算，购卡付款为 **$103**，拿到的仍是 **$100 面值**；这是依据公布费率的计算示例，实际以结账金额为准。ChatGPT 后续订阅产生的税费另看 ChatGPT 结账页。
+
+商品页的「最高 3%」是筹款收益：按 RaiseRight 的模式，收益用于支持关联组织，如何分配由组织决定。**它不会直接从购卡结账金额中扣除，个人实际获得的收益取决于组织的分配安排。** [筹款机制](https://www.raiseright.com/how-it-works/gift-card-fundraising) · [收益分配说明](https://www.raiseright.com/resources/organization/starting-a-new-program/)
+
+### 3. 收到电子卡后，再到 ChatGPT 兑换
+
+电子卡交付后可在 **RaiseRight Wallet** 查看；如购买时选择赠送，按收件邮件说明领取。随后前往 **[chatgpt.com/redeem](https://chatgpt.com/redeem)**，兑换到最终使用的 ChatGPT 账号。RaiseRight 的平台 Wallet 与 ChatGPT 的美元 Wallet 互不等同。[电子卡说明](https://support.raiseright.com/hc/en-us/articles/360048229854-About-eGift-cards)
+
+<p align="center">
+  <a href="./images/07-raiseright-chatgpt-redemption-20260909.png">
+    <img src="./images/07-raiseright-chatgpt-redemption-20260909.png" width="960" alt="RaiseRight 商品页展开的电子礼品卡兑换说明，要求前往 chatgpt.com/redeem，登录或创建 OpenAI 账号后输入卡号和 PIN">
+  </a>
+</p>
+<p align="center"><sub>图 5：2026 年 9 月 9 日的 RaiseRight 兑换说明，列出官方兑换地址及卡号、PIN 提示。点击图片可查看原图。</sub></p>
+
+RaiseRight 的兑换提示提到卡号和 PIN，OpenAI 帮助页目前以输入 PIN 描述流程。请保留交付的卡号与 PIN，按官方兑换页实际出现的字段填写；不要将完整 PIN 发布到 Issue 或公开截图中。
+
+**本段是依据公开页面整理的购买指引。** 登录后的完整金额选项、具体银行卡是否通过、实际交付速度和成功兑换结果，本文尚未实测。
+
+## 国内用户怎么选择
+
+**RaiseRight 上架后，OpenAI 礼品卡仍然受美国地区和 USD 计费条件限制。** OpenAI 要求兑换者身处美国并使用符合条件的美元计费账号；将电子卡发给美国以外的收件人，不会改变兑换资格。[官方地区要求](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)
+
+如果你目前人在中国大陆，这款美国礼品卡还不能按官方说明当成面向大陆直接开放的充值方式。商品页和付款帮助也没有证明国内银行卡可以直接完成购买，不能仅凭银行卡带有 Visa 或 Mastercard 标识就推定可用。
+
+<a id="暂时没有购买渠道怎么选择"></a>
+
+如果你的目的是开通 ChatGPT，可以按自己的账号、设备与付款条件选择：
 
 | 你的情况 | 下一步入口 | 需要了解的内容 |
 | --- | --- | --- |
+| 符合美国地区、USD 账号条件，也能使用 RaiseRight | [RaiseRight OpenAI ChatGPT 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt) | 确认计划注册、购卡手续费及交付后，再按官方规则兑换 |
 | 已有 OpenAI 支持的付款方式 | [ChatGPT 官网计划](https://chatgpt.com/pricing/) | 在自己的账号中选择套餐并完成网页结账 |
 | 想用微信充值 ChatGPT Plus | **[AONIR Plus ¥168 / 月](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_plus)** | 查看账号要求后自助下单，充值到本人账号 |
 | 需要 Pro 的更高用量 | [AONIR Pro 5× / 20× 方案](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro) | 查看档位后联系客服确认安排 |
 | 有 iPhone / iPad，希望自行使用 Apple 礼品卡 | [Apple 礼品卡 4 步实测教程](https://github.com/Avarce/chatgpt-plus-china-guide#支付宝买美区礼品卡实测流程附截图) | 礼品卡进入 Apple 账户，再通过 ChatGPT iOS App 订阅 |
 | 还没确定采用哪种方式 | [无境外信用卡的五种开通路径](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_compare) | 按设备、付款条件与后续维护要求比较 |
 
-**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接用于购买会员充值服务；OpenAI Gift Card 的零售商购买入口仍由上节单独跟踪。AONIR 支持微信支付，充值到用户本人账号，不提供共享账号。
+**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接对应会员充值服务，不是 RaiseRight 礼品卡销售或兑换入口，也不代表 AONIR 获得 OpenAI 礼品卡零售授权。AONIR 支持微信支付，充值到用户本人账号，不提供共享账号。
 
 ## 怎样判断是不是官方礼品卡
 
@@ -144,7 +215,7 @@ OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权�
 
 ## 购买前资格检查
 
-即使已经出现正式购买入口，也建议先逐项确认：
+购买前，先确认以下条件：
 
 | 检查项 | 需要满足的条件 |
 | --- | --- |
@@ -153,8 +224,8 @@ OpenAI 的帮助页写明：数字礼品卡可通过部分参与计划的授权�
 | 账号结算币种 | USD |
 | 购买来源 | 参与计划的零售商；卡片已经正确购买并激活 |
 | 工作区 | 确认兑换到最终使用的 Personal workspace；Business 场景需核对所有者权限 |
-| 当前订阅来源 | 网页端订阅，或目前没有订阅 |
-| Apple / Google 订阅 | 如当前由应用商店管理，需先取消并等待订阅实际结束 |
+| 计划支付的项目 | ChatGPT 网页端符合条件的订阅、续费或 credits 购买 |
+| Apple / Google 订阅 | Wallet 不抵扣应用商店账单；若要转为网页订阅，先在原商店取消并等待当前订阅结束 |
 | 购买金额 | 单张通常为 $15–$250，并应覆盖计划价格和可能产生的税费 |
 | 收件邮箱 | 能正常接收数字卡与收据 |
 
@@ -164,12 +235,12 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 
 ## 官方兑换步骤
 
-找到并购买可验证的礼品卡后，官方流程如下：
+在 RaiseRight 等参与计划的零售商购买并收到礼品卡后，官方兑换流程如下：
 
 <p align="center">
   <img src="./images/02-chatgpt-redeem-page.webp" width="1000" alt="ChatGPT 官方礼品卡兑换页面，在 Redeem your gift 窗口输入 PIN">
 </p>
-<p align="center"><sub>图 4：ChatGPT 官方兑换页面。OpenAI Gift Card 的 PIN 应直接在 chatgpt.com/redeem 输入。</sub></p>
+<p align="center"><sub>图 6：2026 年 9 月 2 日保存的 ChatGPT 官方兑换页截图，作为界面参考；输入字段以当前页面为准。</sub></p>
 
 1. 在浏览器打开 [chatgpt.com/redeem](https://chatgpt.com/redeem)。
 2. 登录最终要充值的 ChatGPT 账号。
@@ -184,7 +255,7 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 <p align="center">
   <img src="./images/03-chatgpt-billing-wallet-before.png" width="820" alt="ChatGPT 账单设置页面，显示兑换礼品卡按钮和兑换前为零的钱包余额">
 </p>
-<p align="center"><sub>图 5：账单页面已经出现「兑换礼品卡」入口；当前 US$0.00 是兑换前状态。</sub></p>
+<p align="center"><sub>图 7：2026 年 9 月 2 日保存的账单页面截图。US$0.00 是当时兑换前的余额，不是本次购买或兑换记录。</sub></p>
 
 ## 如何用 Wallet 开通 Plus 或 Pro
 
@@ -206,7 +277,7 @@ ChatGPT Wallet 会自动优先抵扣，用户不能指定「这次只使用一�
 搜索「ChatGPT Gift Card」时，可能会看到 Rewarble 或其他第三方 voucher。它们不一定是假产品，但**不等于这次 OpenAI 新上线的官方礼品卡**。
 
 > [!CAUTION]
-> Rewarble 的流程是先在其网站兑换 voucher，再生成带卡号、有效期和 CVV 的 Reward Card；其页面也明确声明与展示品牌没有背书、关联或赞助关系。OpenAI Gift Card 则应直接在 chatgpt.com/redeem 兑换并进入 ChatGPT Wallet。
+> Rewarble 的流程是先在其网站兑换 voucher，再生成带卡号、有效期和 CVV 的 Reward Card；这一流程与直接兑换 Wallet 余额不同。OpenAI Gift Card 应在 chatgpt.com/redeem 兑换并进入 ChatGPT Wallet。
 
 判断时只看两个关键点：**是否直接在 chatgpt.com/redeem 兑换，以及兑换结果是否进入 ChatGPT Wallet。**
 
@@ -215,14 +286,35 @@ ChatGPT Wallet 会自动优先抵扣，用户不能指定「这次只使用一�
 <details>
 <summary><strong>OpenAI Gift Card 现在到底可以买到了吗？</strong></summary>
 
-OpenAI 官方已说明部分参与计划的授权零售商提供数字卡。截至 2026 年 9 月 6 日 05:06（北京时间），官方帮助页仍没有列出商家或购买链接，本仓库也暂未收录经核对的零售商商品页。可以确认官方已经宣布销售安排；具体购买入口继续在本文更新。
+**RaiseRight 已列出 OpenAI ChatGPT eGift 商品，范围为 $15–$250，并有 2026 年 9 月 5 日品牌公告。** 可以通过[商品页](https://www.raiseright.com/brands/1185-openai-chatgpt)了解购买入口；下单需要登录并符合平台条件。本文已核对公开上架信息，尚未实购。
 
 </details>
 
 <details>
 <summary><strong>官方固定面额是 $15、$25、$50、$100、$200 和 $250 吗？</strong></summary>
 
-不能这样确定。OpenAI 目前只说明通常可购买 $15–$250，实际金额和卡片形式依零售商而定。等真实授权零售商页面上线后，才能记录它提供的具体选项。
+不是已经确认的统一固定面额表。RaiseRight 商品页目前显示 $15–$250 范围，完整可选金额或步进需要登录后查看；本次尚未确认 $15、$25、$50、$100、$200、$250 是否构成该商家的固定面额表。
+
+</details>
+
+<details>
+<summary><strong>RaiseRight 的 3% 是直接打折吗？</strong></summary>
+
+不是结账直接减免 3%。页面写的是筹款收益，用于关联组织及其安排；购卡还可能收取支付手续费。不要把收益比例和购卡折扣混为一谈。详见[手续费与收益说明](#raiseright-购买流程与手续费)。
+
+</details>
+
+<details>
+<summary><strong>人在中国大陆，可以直接买来给自己的 ChatGPT 充值吗？</strong></summary>
+
+按当前官方规则，OpenAI 礼品卡购买和兑换仅限美国，兑换要求身处美国并使用符合条件的 USD 账号。收到数字卡或看见兑换入口，都不代表已经满足这些条件；RaiseRight 上架没有改变 OpenAI 的地区规则。
+
+</details>
+
+<details>
+<summary><strong>卡在 RaiseRight Wallet 里，为什么 ChatGPT 余额没有增加？</strong></summary>
+
+RaiseRight Wallet 保存的是电子卡。需要在 chatgpt.com/redeem 完成官方兑换后，金额才会进入 ChatGPT Wallet；这两个钱包之间不会自动同步余额。
 
 </details>
 
@@ -305,7 +397,7 @@ OpenAI 官方已说明部分参与计划的授权零售商提供数字卡。截�
 
 ## 官方资料与更新时间
 
-以下资料以官方来源为主：
+以下区分 OpenAI / 发卡方规则与 RaiseRight 的零售页面。上架、支付费用和筹款信息优先引用零售商自己的资料：
 
 1. [OpenAI：Buying and redeeming OpenAI Gift Cards](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)
 2. [OpenAI：Using your ChatGPT wallet balance](https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance)
@@ -313,8 +405,18 @@ OpenAI 官方已说明部分参与计划的授权零售商提供数字卡。截�
 4. [OpenAI：Gifting credits in ChatGPT](https://help.openai.com/en/articles/20001417-gifting-credits-in-chatgpt)
 5. [OpenAI：What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)
 6. [Rewarble ChatGPT 页面](https://rewarble.com/brands/chatgpt)（仅用于区分第三方产品，不作为 OpenAI 授权证明）
+7. [RaiseRight：OpenAI ChatGPT 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt)
+8. [RaiseRight：Brand Updates（2026-09-05 ChatGPT 上架公告）](https://www.raiseright.com/m/brand-updates/)
+9. [RaiseRight：购卡付款方式](https://support.raiseright.com/hc/en-us/articles/360050533834-What-payment-methods-can-I-use-to-buy-gift-cards)
+10. [RaiseRight：购卡手续费](https://support.raiseright.com/hc/en-us/articles/44378620085395-Convenience-fees-for-buying-gift-cards)
+11. [RaiseRight：加入码与邀请链接](https://support.raiseright.com/hc/en-us/articles/360058346553-Where-to-find-my-organization-s-enrollment-code)
+12. [RaiseRight：eGift 电子卡说明](https://support.raiseright.com/hc/en-us/articles/360048229854-About-eGift-cards)
+13. [RaiseRight：筹款机制](https://www.raiseright.com/how-it-works/gift-card-fundraising)与[组织收益分配](https://www.raiseright.com/resources/organization/starting-a-new-program/)
+
 
 ### 更新记录
+
+- **2026-09-09（北京时间）：** 核对并收录 RaiseRight 正式商品页与 9 月 5 日上架公告，更新 eGift、$15–$250 范围、购卡登录条件、筹款收益及付款手续费；补充 RaiseRight Wallet 与 ChatGPT Wallet 的区别，加入当日商品页和兑换说明截图。将「暂未收录购买入口」更新为「已收录 RaiseRight」，保留美国地区要求、历史截图和既有会员服务入口。本次未进行实购或兑换。
 
 - **2026-09-06 05:06（北京时间）：** 复核 OpenAI 购买说明与 Wallet 帮助页；将“官方已宣布部分零售商销售”和“本文尚未收录可核对购买链接”分别写清。增加按阅读目的跳转的入口，区分 Plus 自助充值、Pro 咨询、Apple 礼品卡实测和方式比较。保留 9 月 2 日截图，未新增实购记录。
 
@@ -323,6 +425,6 @@ OpenAI 官方已说明部分参与计划的授权零售商提供数字卡。截�
 
 ---
 
-如果你发现 OpenAI 官方新列出的零售商，或发现本文某项规则已经变化，欢迎提交 Issue，并附上公开商品页或官方文档链接。
+如果你发现新的零售商商品页，或发现本文某项规则已经变化，欢迎提交 Issue，并附上零售商自己的公开页面或官方文档链接。请勿提交完整礼品卡 PIN、订单资料或账号凭据。
 
 本文为独立研究和操作记录，不代表 OpenAI。ChatGPT、OpenAI 及相关名称和标识归其权利人所有。
