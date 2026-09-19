@@ -1,14 +1,14 @@
 # OpenAI Gift Card 怎么买？ChatGPT 官方礼品卡购买与兑换指南（2026）
 
-![Status](https://img.shields.io/badge/retailers-BJ%27s%20%2B%20RaiseRight-success)
-![Updated](https://img.shields.io/badge/updated-2026--09--14-blue)
+![Status](https://img.shields.io/badge/retailers-Best%20Buy%20%2B%20BJ%27s%20%2B%20RaiseRight-success)
+![Updated](https://img.shields.io/badge/updated-2026--09--19-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后核对：2026 年 9 月 14 日（北京时间）**
+> **本次更新：2026 年 9 月 19 日（北京时间）**
 >
-> **新增 BJ’s 购买渠道：$100 面值，页面售价 $98.99，电子邮件交付。** 现在可以对照 [BJ’s 商品页](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)与 [RaiseRight 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt)，按自己的购物条件选择。
+> **Best Buy 已上架 OpenAI ChatGPT 官方数字礼品卡，面额为 $25 / $50 / $100 / $200。** 商品由 Best Buy 销售，兑换信息通过邮件和订单详情交付。[查看商品与购买说明](#best-buy-购买说明)
 >
-> 本文整理购买入口、面值与售价、交付方式，以及 ChatGPT Wallet 的兑换和使用方法。新增 BJ’s 官网商品图，原有截图保留拍摄日期；本次依据公开页面复核，**未进行实购或兑换**。
+> 本次补充 Best Buy 的购买链接、支付方式、商品页和结账截图。BJ’s、RaiseRight 的购买说明及 ChatGPT Wallet 兑换步骤也保留在下方，方便按自己的情况选择。
 
 ## 30 秒结论
 
@@ -27,12 +27,13 @@ OpenAI Gift Card 是用于 ChatGPT 的美元储值礼品卡，卡片为一次性
 > [!NOTE]
 > **先分清两个 Wallet：** RaiseRight Wallet 保存购买到的电子礼品卡；在 ChatGPT 官方页面完成兑换后，金额才会进入 ChatGPT Wallet。收到电子卡，不等于已经充值到 ChatGPT。
 
-**按你的目的继续：** [查看两个购买渠道](#现在在哪里购买) · [BJ’s 商品与购买说明](#bjs-购买说明) · [RaiseRight 流程与手续费](#raiseright-购买流程与手续费) · [国内用户怎么选择](#国内用户怎么选择) · [查看兑换步骤](#官方兑换步骤)
+**按你的目的继续：** [查看三个购买渠道](#现在在哪里购买) · [Best Buy 面额与支付](#best-buy-购买说明) · [BJ’s 商品说明](#bjs-购买说明) · [RaiseRight 流程与手续费](#raiseright-购买流程与手续费) · [国内用户怎么选择](#国内用户怎么选择) · [查看兑换步骤](#官方兑换步骤)
 
 ## 目录
 
 - [OpenAI Gift Card 到底是什么](#openai-gift-card-到底是什么)
 - [现在在哪里购买](#现在在哪里购买)
+- [Best Buy 购买说明与支付方式](#best-buy-购买说明)
 - [BJ’s 购买说明](#bjs-购买说明)
 - [RaiseRight 购买流程与手续费](#raiseright-购买流程与手续费)
 - [国内用户怎么选择](#国内用户怎么选择)
@@ -90,22 +91,62 @@ flowchart LR
 | 退款与流通 | 通常不能退款、兑换现金或有偿转售；可以无偿赠送他人，适用法律另有要求的除外 |
 | 法律发行方 | CIMI2604, Inc. 是发卡方和礼品卡义务承担方；OpenAI 不是发卡方 |
 
-具体金额选项由零售商决定。本文已核对 BJ’s 的 **$100 面值**商品；RaiseRight 公布 **$15–$250 范围**，具体可选金额以登录后的页面为准。
+具体金额选项由零售商决定。Best Buy 已列出 **$25 / $50 / $100 / $200**；BJ’s 本文收录的是 **$100 面值**商品；RaiseRight 公布 **$15–$250 范围**，具体可选金额以登录后的页面为准。
 
 ## 现在在哪里购买
 
-目前已核对两个零售商入口：
+本文现收录三个零售商入口。Best Buy 为本次新增核对；BJ’s 与 RaiseRight 的下列资料沿用 9 月 14 日核对记录，价格和供应以各自当前结账页为准。
 
 | 渠道 | 已核对的面值 | 页面价格或费用 | 交付方式 |
 | --- | --- | --- | --- |
+| **[Best Buy](https://www.bestbuy.com/product/openai-chatgpt-25-gift-card-digital/JJG34P73VL/sku/6688130)** | **$25 / $50 / $100 / $200** | 分别标价 **$25 / $50 / $100 / $200**；最终总额看结账页 | 数字交付，邮件及订单详情提供兑换信息 |
 | **[BJ’s Wholesale Club](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)** | **$100** | **$98.99** 商品标价；最终总额看结账页 | Digital (Email)，发送到 BJ’s 登录邮箱 |
 | [RaiseRight](https://www.raiseright.com/brands/1185-openai-chatgpt) | $15–$250 范围 | 购卡手续费取决于付款方式；最高 3% 是筹款收益 | 电子交付，保存在 RaiseRight Wallet |
 
-BJ’s 是新增入口；RaiseRight 的计划加入方式和付款手续费，见下方单独说明。两个渠道购买到的卡，仍需按 OpenAI 的账号和地区要求兑换。
+Best Buy 的购买与付款步骤见下方；BJ’s 的购物资格、RaiseRight 的加入方式与手续费也有单独说明。购买前先确认自己的 ChatGPT 账号符合兑换条件。
+
+<a id="best-buy-购买说明"></a>
+
+### 新增：Best Buy
+
+北京时间 **2026 年 9 月 19 日**核对时，Best Buy 的商品名为 **OpenAI ChatGPT Gift Card [Digital]**，页面标明由 **Best Buy** 销售，并提供四档面额。
+
+| 面额 / 页面售价 | Best Buy 商品链接 | SKU |
+| --- | --- | --- |
+| **$25 / $25** | [ChatGPT $25 数字礼品卡](https://www.bestbuy.com/product/openai-chatgpt-25-gift-card-digital/JJG34P73VL/sku/6688130) | 6688130 |
+| **$50 / $50** | [ChatGPT $50 数字礼品卡](https://www.bestbuy.com/product/openai-chatgpt-50-gift-card-digital/JJG34P73VQ) | 6688128 |
+| **$100 / $100** | [ChatGPT $100 数字礼品卡](https://www.bestbuy.com/product/openai-chatgpt-100-gift-card-digital/JJG34P787G/sku/6688133) | 6688133 |
+| **$200 / $200** | [ChatGPT $200 数字礼品卡](https://www.bestbuy.com/product/openai-chatgpt-200-gift-card-digital/JJG34P7874) | 6688129 |
+
+<p align="center">
+  <a href="./images/09-bestbuy-chatgpt-product-20260919.png">
+    <img src="./images/09-bestbuy-chatgpt-product-20260919.png" width="960" alt="2026 年 9 月 19 日 Best Buy ChatGPT 数字礼品卡商品页，选中 50 美元，列出 25、50、100、200 美元四档面额，以及数字交付和 Best Buy 销售标识">
+  </a>
+</p>
+<p align="center"><sub>图 2：Best Buy 商品页截图，2026 年 9 月 19 日。截图选中 $50 面额；右侧说明兑换信息通过邮件和订单详情提供。点击可查看原图。</sub></p>
+
+**购买与收卡：** 登录 BestBuy.com 账号，选择面额并核对结账总额；付款后查看订单详情与收信邮箱，再按本文的[官方兑换步骤](#官方兑换步骤)操作。商品页将此卡标为**仅限美国兑换、不可退货**。页面只笼统说明购买后很快可用，**没有承诺每笔订单即时发卡或固定审核时长**。
+
+#### 付款方式与下单注意事项
+
+**Best Buy 的 ChatGPT 礼品卡结账页显示 Visa、Mastercard、American Express、Discover、JCB、UnionPay（银联）标识，也可以选择 PayPal 付款。** 下图是 $25 礼品卡的结账页面。
+
+<a id="best-buy-结账截图"></a>
+
+<p align="center">
+  <a href="./images/10-bestbuy-chatgpt-checkout.jpg">
+    <img src="./images/10-bestbuy-chatgpt-checkout.jpg" width="960" alt="Best Buy ChatGPT 25 美元数字礼品卡结账页面，显示 Visa、Mastercard、Amex、Discover、JCB、UnionPay 银联及 PayPal 付款选项">
+  </a>
+</p>
+<p align="center"><sub>图 3：作者的 Best Buy $25 礼品卡结账截图，包含银联和 PayPal 付款选项。点击可查看原图。</sub></p>
+
+**支持银联，不代表国内银联卡一定能成功下单。** 银行卡授权和订单审核仍会影响能否发卡。请填写真实、准确的账号和 Billing Address（账单地址），并以自己结账页提供的付款方式为准。
+
+付款后查看订单详情和收信邮箱，留意是否有补充付款信息的通知。银行预授权不等于已经发卡；超过预计交付时间仍未收到时，先检查垃圾邮件，再联系 Best Buy 客服。
 
 <a id="bjs-购买说明"></a>
 
-### 新增：BJ’s Wholesale Club
+### 已核对：BJ’s Wholesale Club
 
 **购买入口：[ChatGPT $100 · BJ’s](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)**
 
@@ -114,7 +155,7 @@ BJ’s 是新增入口；RaiseRight 的计划加入方式和付款手续费，�
     <img src="./images/08-bjs-chatgpt-100-20260914.jpg" width="480" alt="BJ’s 官网 ChatGPT 100 美元礼品卡商品图，紫蓝渐变卡面，带 OpenAI 标识和 100 美元面值">
   </a>
 </p>
-<p align="center"><sub>图 2：BJ’s 官网提供的 $100 礼品卡商品图。该商品页选择的是电子邮件交付；卡面展示不表示邮寄实体卡。点击可查看高清原图。</sub></p>
+<p align="center"><sub>图 4：BJ’s 官网提供的 $100 礼品卡商品图。该商品页选择的是电子邮件交付；卡面展示不表示邮寄实体卡。点击可查看高清原图。</sub></p>
 
 北京时间 **2026 年 9 月 14 日**核对时，BJ’s 页面显示 **$100 面值、$98.99 售价**，比面值少付 $1.01；商品编号为 **360793**。这笔差额来自商品标价，不是页面上的信用卡奖励广告。
 
@@ -126,7 +167,7 @@ BJ’s 是新增入口；RaiseRight 的计划加入方式和付款手续费，�
 
 页面的数字交付说明写的是 **1–2 小时内发往登录邮箱**；规格表另有「3–5 个工作日」字段。这里按电子卡交付选项介绍，具体发送时间以订单确认信息为准。
 
-**非 BJ’s 会员怎么处理？** BJ’s 有 [1-Day Pass](https://help.bjs.com/hc/en-us/articles/26873882893588-What-is-the-1-Day-Shopping-Pass-for-BJs-com)，但帮助页只说明可使用标准配送，未明确说明它是否适用于这款数字卡。没有会员的读者应先向 BJ’s 确认购买资格，再决定是否办理会员。
+**非 BJ’s 会员怎么处理？** BJ’s 有 [1-Day Pass](https://help.bjs.com/hc/en-us/articles/26873882893588-What-is-the-1-Day-Shopping-Pass-for-BJs-com)，但帮助页只说明可使用标准配送，未明确说明它是否适用于这款数字卡。没有会员时，应先向 BJ’s 确认购买资格，再决定是否办理会员。
 
 BJ’s 的[退货政策](https://www.bjs.com/info/returns/)将礼品卡列为不退款商品。本段已核对上架信息，尚未测试非会员下单、具体银行卡通过情况或实际到账时间。
 
@@ -139,11 +180,11 @@ BJ’s 的[退货政策](https://www.bjs.com/info/returns/)将礼品卡列为不
     <img src="./images/06-raiseright-chatgpt-product-20260909.png" width="960" alt="2026 年 9 月 9 日 RaiseRight OpenAI ChatGPT 商品页，显示 eGift、15 至 250 美元金额范围、最高 3% 筹款收益和登录购买按钮">
   </a>
 </p>
-<p align="center"><sub>图 3：2026 年 9 月 9 日的 RaiseRight 商品页，展示电子卡、金额范围与登录购买入口。点击图片可查看原图。</sub></p>
+<p align="center"><sub>图 5：2026 年 9 月 9 日的 RaiseRight 商品页，展示电子卡、金额范围与登录购买入口。点击图片可查看原图。</sub></p>
 
-RaiseRight 的上架公告日期为 **2026 年 9 月 5 日**。**本轮重新打开商品页，仍可看到以下信息**；上图保留的是 9 月 9 日截图，不是本次新拍的购买记录。
+RaiseRight 的上架公告日期为 **2026 年 9 月 5 日**。以下内容于 **9 月 14 日复核**；上图保留的是 9 月 9 日截图，不是本次新拍的购买记录。
 
-| 项目 | 当前页面显示 |
+| 项目 | 9 月 14 日核对记录 |
 | --- | --- |
 | 商品名称 | OpenAI ChatGPT |
 | 卡片类型 | **eGift 电子礼品卡**；本次商品页仅列出这一类型 |
@@ -162,7 +203,7 @@ RaiseRight 的上架公告日期为 **2026 年 9 月 5 日**。**本轮重新打
 
 OpenAI 帮助页目前仍使用「部分零售商」的表述，没有逐一列出商家名称。本文据此将 RaiseRight 收录为**已核对的零售商购买入口**；这里的核对结果不代表已完成购买或成功兑换。
 
-BJ’s 已作为另一个零售入口收录在上方。本文区分零售商正式商品页与第三方 voucher，也不把当前清单视为完整的授权零售商名录。
+Best Buy、BJ’s 的零售入口也已收录在上方。本文区分零售商正式商品页与第三方 voucher，也不把当前清单视为完整的授权零售商名录。
 
 <details>
 <summary><strong>查看原有官方说明和实体卡示例</strong></summary>
@@ -170,12 +211,12 @@ BJ’s 已作为另一个零售入口收录在上方。本文区分零售商正�
 <p align="center">
   <img src="./images/01-openai-buy-gift-card.png" width="960" alt="2026 年 9 月 2 日保存的 OpenAI 官方购买说明截图，写明部分零售商提供数字卡以及通常为 15 至 250 美元">
 </p>
-<p align="center"><sub>图 4：2026 年 9 月 2 日保存的官方购买说明截图。它说明计划的一般规则；本文现已另行核对并收录零售商商品页。</sub></p>
+<p align="center"><sub>图 6：2026 年 9 月 2 日保存的官方购买说明截图。它说明计划的一般规则；本文现已另行核对并收录零售商商品页。</sub></p>
 
 <p align="center">
   <img src="./images/04-openai-gift-card-physical-example.webp" width="960" alt="OpenAI Gift Card 条款站的实体卡正反面示例，并非 RaiseRight 实体卡在售证明">
 </p>
-<p align="center"><sub>图 5：条款站的实体卡示例，保留自原版教程。本次 RaiseRight 商品页仅列出 eGift，不能据此图推定它也在售实体卡。</sub></p>
+<p align="center"><sub>图 7：条款站的实体卡示例，保留自原版教程。本次 RaiseRight 商品页仅列出 eGift，不能据此图推定它也在售实体卡。</sub></p>
 
 </details>
 
@@ -215,7 +256,7 @@ RaiseRight 是面向学校、团队和其他组织的筹款平台。普通参与
     <img src="./images/07-raiseright-chatgpt-redemption-20260909.png" width="960" alt="RaiseRight 商品页展开的电子礼品卡兑换说明，要求前往 chatgpt.com/redeem，登录或创建 OpenAI 账号后输入卡号和 PIN">
   </a>
 </p>
-<p align="center"><sub>图 6：2026 年 9 月 9 日的 RaiseRight 兑换说明，列出官方兑换地址及卡号、PIN 提示。点击图片可查看原图。</sub></p>
+<p align="center"><sub>图 8：2026 年 9 月 9 日的 RaiseRight 兑换说明，列出官方兑换地址及卡号、PIN 提示。点击图片可查看原图。</sub></p>
 
 RaiseRight 的兑换提示提到卡号和 PIN，OpenAI 帮助页目前以输入 PIN 描述流程。请保留交付的卡号与 PIN，按官方兑换页实际出现的字段填写；不要将完整 PIN 发布到 Issue 或公开截图中。
 
@@ -223,7 +264,7 @@ RaiseRight 的兑换提示提到卡号和 PIN，OpenAI 帮助页目前以输入 
 
 ## 国内用户怎么选择
 
-**BJ’s 和 RaiseRight 提供了购买入口，OpenAI 礼品卡仍受美国地区和 USD 计费条件限制。** OpenAI 要求兑换者身处美国并使用符合条件的美元计费账号；将电子卡发给美国以外的收件人，不会改变兑换资格。[官方地区要求](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)
+**Best Buy、BJ’s 和 RaiseRight 提供了购买入口，OpenAI 礼品卡仍受美国地区和 USD 计费条件限制。** OpenAI 要求兑换者身处美国并使用符合条件的美元计费账号；将电子卡发给美国以外的收件人，不会改变兑换资格。[官方地区要求](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)
 
 如果你目前人在中国大陆，这款美国礼品卡还不能按官方说明当成面向大陆直接开放的充值方式。商品页和付款帮助也没有证明国内银行卡可以直接完成购买，不能仅凭银行卡带有 Visa 或 Mastercard 标识就推定可用。
 
@@ -233,6 +274,7 @@ RaiseRight 的兑换提示提到卡号和 PIN，OpenAI 帮助页目前以输入 
 
 | 你的情况 | 下一步入口 | 需要了解的内容 |
 | --- | --- | --- |
+| 符合美国地区、USD 账号条件，也能在 Best Buy 购物 | [Best Buy 面额与购买说明](#best-buy-购买说明) | 确认面额、付款方式与订单交付状态 |
 | 符合美国地区、USD 账号条件，也能在 BJ’s 购物 | [BJ’s ChatGPT $100 商品页](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254) | 核对账号购物资格、结账总额与接收电子卡的邮箱 |
 | 符合美国地区、USD 账号条件，也能使用 RaiseRight | [RaiseRight OpenAI ChatGPT 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt) | 确认计划注册、购卡手续费及交付后，再按官方规则兑换 |
 | 已有 OpenAI 支持的付款方式 | [ChatGPT 官网计划](https://chatgpt.com/pricing/) | 在自己的账号中选择套餐并完成网页结账 |
@@ -241,7 +283,7 @@ RaiseRight 的兑换提示提到卡号和 PIN，OpenAI 帮助页目前以输入 
 | 有 iPhone / iPad，希望自行使用 Apple 礼品卡 | [Apple 礼品卡 4 步实测教程](https://github.com/Avarce/chatgpt-plus-china-guide#支付宝买美区礼品卡实测流程附截图) | 礼品卡进入 Apple 账户，再通过 ChatGPT iOS App 订阅 |
 | 还没确定采用哪种方式 | [无境外信用卡的五种开通路径](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_compare) | 按设备、付款条件与后续维护要求比较 |
 
-**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接对应会员充值服务，不是 BJ’s 或 RaiseRight 礼品卡销售、兑换入口，也不代表 AONIR 获得 OpenAI 礼品卡零售授权。AONIR 支持微信支付，充值到用户本人账号，不提供共享账号。
+**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接对应会员充值服务，不是 Best Buy、BJ’s 或 RaiseRight 礼品卡销售、兑换入口，也不代表 AONIR 获得 OpenAI 礼品卡零售授权。AONIR 支持微信支付，充值到用户本人账号，不提供共享账号。
 
 ## 怎样判断是不是官方礼品卡
 
@@ -277,12 +319,12 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 
 ## 官方兑换步骤
 
-在 BJ’s、RaiseRight 等零售商购买并收到礼品卡后，官方兑换流程如下：
+在 Best Buy、BJ’s、RaiseRight 等零售商购买并收到礼品卡后，官方兑换流程如下：
 
 <p align="center">
   <img src="./images/02-chatgpt-redeem-page.webp" width="1000" alt="ChatGPT 官方礼品卡兑换页面，在 Redeem your gift 窗口输入 PIN">
 </p>
-<p align="center"><sub>图 7：2026 年 9 月 2 日保存的 ChatGPT 官方兑换页截图，作为界面参考；输入字段以当前页面为准。</sub></p>
+<p align="center"><sub>图 9：2026 年 9 月 2 日保存的 ChatGPT 官方兑换页截图，作为界面参考；输入字段以当前页面为准。</sub></p>
 
 1. 在浏览器打开 [chatgpt.com/redeem](https://chatgpt.com/redeem)。
 2. 登录最终要充值的 ChatGPT 账号。
@@ -297,7 +339,7 @@ OpenAI 明确写明，礼品卡的购买和兑换目前仅限美国。把卡发�
 <p align="center">
   <img src="./images/03-chatgpt-billing-wallet-before.png" width="820" alt="ChatGPT 账单设置页面，显示兑换礼品卡按钮和兑换前为零的钱包余额">
 </p>
-<p align="center"><sub>图 8：2026 年 9 月 2 日保存的账单页面截图。US$0.00 是当时兑换前的余额，不是本次购买或兑换记录。</sub></p>
+<p align="center"><sub>图 10：2026 年 9 月 2 日保存的账单页面截图。US$0.00 是当时兑换前的余额，不是本次购买或兑换记录。</sub></p>
 
 ## 如何用 Wallet 开通 Plus 或 Pro
 
@@ -361,7 +403,21 @@ Rewarble 当前页面也明确说明其为独立平台，展示其他品牌名�
 <details>
 <summary><strong>OpenAI Gift Card 现在到底可以买到了吗？</strong></summary>
 
-**目前已核对 BJ’s 和 RaiseRight 两个购买入口。** BJ’s 的 $100 商品标价为 $98.99，选择电子邮件交付；RaiseRight 的 eGift 金额范围为 $15–$250。下单前需满足各平台的购物条件，详见[购买渠道对照](#现在在哪里购买)。本文已核对公开上架信息，尚未实购。
+**目前已收录 Best Buy、BJ’s 和 RaiseRight 三个购买入口。** Best Buy 有 $25 / $50 / $100 / $200 四档数字卡；BJ’s 与 RaiseRight 的面额、价格和购买要求见[购买渠道对照](#现在在哪里购买)。
+
+</details>
+
+<details>
+<summary><strong>Best Buy 可以用国内银联卡购买吗？</strong></summary>
+
+**结账页显示 UnionPay（银联）标识，但国内发行的银联卡不保证都能通过。** 实际还要看银行卡授权和订单审核结果，填写账单资料后，以自己的结账结果为准。详见[结账截图与支付说明](#best-buy-结账截图)。
+
+</details>
+
+<details>
+<summary><strong>Best Buy 显示付款了，为什么还没收到礼品卡？</strong></summary>
+
+银行预授权不等于已经发卡。先查看订单详情、邮箱和垃圾邮件，按邮件提示处理付款问题；超过订单预计交付时间仍未收到时，联系 Best Buy 客服。
 
 </details>
 
@@ -375,7 +431,7 @@ Rewarble 当前页面也明确说明其为独立平台，展示其他品牌名�
 <details>
 <summary><strong>官方固定面额是 $15、$25、$50、$100、$200 和 $250 吗？</strong></summary>
 
-不是已经确认的统一固定面额表。BJ’s 本文收录的是 **$100 面值**商品；RaiseRight 显示 **$15–$250 范围**，完整可选金额或步进需要登录后查看。各零售商实际销售的面值不一定相同。
+不是所有零售商通用的固定面额表。Best Buy 已核对的四档是 **$25 / $50 / $100 / $200**；BJ’s 本文收录 **$100 面值**商品；RaiseRight 显示 **$15–$250 范围**，完整可选金额或步进需要登录后查看。
 
 </details>
 
@@ -389,7 +445,7 @@ Rewarble 当前页面也明确说明其为独立平台，展示其他品牌名�
 <details>
 <summary><strong>人在中国大陆，可以直接买来给自己的 ChatGPT 充值吗？</strong></summary>
 
-按当前官方规则，OpenAI 礼品卡购买和兑换仅限美国，兑换要求身处美国并使用符合条件的 USD 账号。收到数字卡或看见兑换入口，都不代表已经满足这些条件；BJ’s 和 RaiseRight 的上架没有改变 OpenAI 的地区规则。
+按当前官方规则，OpenAI 礼品卡购买和兑换仅限美国，兑换要求身处美国并使用符合条件的 USD 账号。收到数字卡或看见兑换入口，都不代表已经满足这些条件；Best Buy、BJ’s 和 RaiseRight 的上架没有改变 OpenAI 的地区规则。
 
 </details>
 
@@ -472,7 +528,7 @@ RaiseRight Wallet 保存的是电子卡。需要在 chatgpt.com/redeem 完成官
 
 ## 官方资料与更新时间
 
-以下分别列出 OpenAI / 发卡方规则，以及 BJ’s、RaiseRight 的零售资料。上架、交付、支付费用和筹款信息优先引用零售商自己的页面：
+以下是本文用到的 OpenAI 帮助文档、礼品卡条款和零售商页面，购买前可以查看最新说明：
 
 1. [OpenAI：Buying and redeeming OpenAI Gift Cards](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)
 2. [OpenAI：Using your ChatGPT wallet balance](https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance)
@@ -490,9 +546,13 @@ RaiseRight Wallet 保存的是电子卡。需要在 chatgpt.com/redeem 完成官
 14. [BJ’s：ChatGPT $100 商品页](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)
 15. [BJ’s：1-Day Shopping Pass 说明](https://help.bjs.com/hc/en-us/articles/26873882893588-What-is-the-1-Day-Shopping-Pass-for-BJs-com)
 16. [BJ’s：退货政策（礼品卡不退款）](https://www.bjs.com/info/returns/)
+17. Best Buy：ChatGPT 数字礼品卡 [ $25 ](https://www.bestbuy.com/product/openai-chatgpt-25-gift-card-digital/JJG34P73VL/sku/6688130) · [ $50 ](https://www.bestbuy.com/product/openai-chatgpt-50-gift-card-digital/JJG34P73VQ) · [ $100 ](https://www.bestbuy.com/product/openai-chatgpt-100-gift-card-digital/JJG34P787G/sku/6688133) · [ $200 ](https://www.bestbuy.com/product/openai-chatgpt-200-gift-card-digital/JJG34P7874)
+18. [Best Buy：Payment Methods（线上支付名单与授权流程）](https://www.bestbuy.com/site/help-topics/payment-options/pcmcat203400050003.c?id=pcmcat203400050003)
 
 
 ### 更新记录
+
+- **2026-09-19（北京时间）：** 新增 Best Buy 的 $25 / $50 / $100 / $200 数字礼品卡购买链接、页面价格及收卡步骤，加入商品页和 $25 结账页两张截图，补充银联、PayPal 等支付选项和国内银行卡下单注意事项。保留原有八张图片及历史日期、三个 AONIR 服务链接。
 
 - **2026-09-14（北京时间）：** 新增 BJ’s $100 礼品卡商品页、$98.99 页面售价、电子邮件交付说明及官网高清商品图，补充两个购买渠道的对照、非会员购买资格和零售商退款政策。重新核对 RaiseRight 与 OpenAI 资料，增加 Wallet、使用额度与 Gifting Credits 对照，以及余额、结账和退款排查。原有七张图片保留历史日期，三个 AONIR 服务链接不变；本次未进行实购或兑换。
 
