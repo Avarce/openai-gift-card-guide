@@ -1,14 +1,14 @@
 # OpenAI Gift Card 怎么买？ChatGPT 官方礼品卡购买与兑换指南（2026）
 
 ![Status](https://img.shields.io/badge/retailers-Best%20Buy%20%2B%20BJ%27s%20%2B%20RaiseRight-success)
-![Updated](https://img.shields.io/badge/updated-2026--09--19-blue)
+![Updated](https://img.shields.io/badge/updated-2026--09--21-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **本次更新：2026 年 9 月 19 日（北京时间）**
+> **本次更新：2026 年 9 月 21 日（北京时间）**
 >
 > **Best Buy 已上架 OpenAI ChatGPT 官方数字礼品卡，面额为 $25 / $50 / $100 / $200。** 商品由 Best Buy 销售，兑换信息通过邮件和订单详情交付。[查看商品与购买说明](#best-buy-购买说明)
 >
-> 本次补充 Best Buy 的购买链接、支付方式、商品页和结账截图。BJ’s、RaiseRight 的购买说明及 ChatGPT Wallet 兑换步骤也保留在下方，方便按自己的情况选择。
+> 本次同步 **AONIR Pro 5× ¥730 / 月微信自助充值**，与 Plus ¥168 / 月一起列在 [国内用户怎么选择](#国内用户怎么选择)。Best Buy 的购买链接、支付方式和两张截图保留 9 月 19 日记录；BJ’s、RaiseRight 与 ChatGPT Wallet 的购买兑换说明继续保留。
 
 ## 30 秒结论
 
@@ -279,11 +279,15 @@ RaiseRight 的兑换提示提到卡号和 PIN，OpenAI 帮助页目前以输入 
 | 符合美国地区、USD 账号条件，也能使用 RaiseRight | [RaiseRight OpenAI ChatGPT 商品页](https://www.raiseright.com/brands/1185-openai-chatgpt) | 确认计划注册、购卡手续费及交付后，再按官方规则兑换 |
 | 已有 OpenAI 支持的付款方式 | [ChatGPT 官网计划](https://chatgpt.com/pricing/) | 在自己的账号中选择套餐并完成网页结账 |
 | 想用微信充值 ChatGPT Plus | **[AONIR Plus ¥168 / 月](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_plus)** | 查看账号要求后自助下单，充值到本人账号 |
-| 需要 Pro 的更高用量 | [AONIR Pro 5× / 20× 方案](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro) | 将当前套餐和到期时间告知客服，确认可安排的服务 |
+| 经常触及 Plus 用量上限，需要更多 Work / Codex 用量 | **[AONIR Pro 5× ¥730 / 月](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro)** | 已支持微信自助充值；先核对账号要求和库存，充值到本人账号 |
 | 有 iPhone / iPad，希望自行使用 Apple 礼品卡 | [Apple 礼品卡 4 步实测教程](https://github.com/Avarce/chatgpt-plus-china-guide#支付宝买美区礼品卡实测流程附截图) | 礼品卡进入 Apple 账户，再通过 ChatGPT iOS App 订阅 |
 | 还没确定采用哪种方式 | [无境外信用卡的五种开通路径](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_compare) | 按设备、付款条件与后续维护要求比较 |
 
-**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接对应会员充值服务，不是 Best Buy、BJ’s 或 RaiseRight 礼品卡销售、兑换入口，也不代表 AONIR 获得 OpenAI 礼品卡零售授权。AONIR 支持微信支付，充值到用户本人账号，不提供共享账号。
+**Plus 与 Pro 5× 怎么选？** 日常写作、学习、办公和个人编程可以先选 Plus；如果 Work / Codex 经常用到上限，再考虑 Pro 5×。按 [OpenAI 官方计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 5× 提供 Plus 的 5 倍 Work / Codex 用量；具体消耗和重置时间以账号显示为准，API 另行计费。
+
+**AONIR 为本文维护方，提供独立第三方会员充值服务。** 上表中的 AONIR 链接对应会员充值服务，不是 Best Buy、BJ’s 或 RaiseRight 礼品卡销售、兑换入口，也不代表 AONIR 获得 OpenAI 礼品卡零售授权。Plus 与 Pro 5× 均支持微信自助下单，充值到用户本人账号，无需提供登录密码，不提供共享账号。价格和库存以下单页为准。
+
+**下单流程：** 选择 Plus 或 Pro 5× → 核对账号要求 → 微信付款 → 按订单页提交本次充值所需信息 → 在 ChatGPT 中确认套餐与有效期。会员时长不会叠加。如需在到期前充值，建议临近到期再操作。
 
 ## 怎样判断是不是官方礼品卡
 
@@ -551,6 +555,8 @@ RaiseRight Wallet 保存的是电子卡。需要在 chatgpt.com/redeem 完成官
 
 
 ### 更新记录
+
+- **2026-09-21（北京时间）：** 将 AONIR Pro 入口从客服咨询改为 Pro 5× ¥730 / 月微信自助充值，与 Plus ¥168 / 月一起介绍；补充选择建议和下单步骤，保留三个服务入口的来源标记。礼品卡零售内容和十张历史图片保留原有日期，本次未新增实购或兑换记录。
 
 - **2026-09-19（北京时间）：** 新增 Best Buy 的 $25 / $50 / $100 / $200 数字礼品卡购买链接、页面价格及收卡步骤，加入商品页和 $25 结账页两张截图，补充银联、PayPal 等支付选项和国内银行卡下单注意事项。保留原有八张图片及历史日期、三个 AONIR 服务链接。
 
