@@ -1,10 +1,10 @@
 # OpenAI Gift Card 怎么买？ChatGPT 官方礼品卡购买与兑换指南（2026）
 
 ![Status](https://img.shields.io/badge/retailers-Best%20Buy%20%2B%20BJ%27s%20%2B%20RaiseRight-success)
-![Updated](https://img.shields.io/badge/updated-2026--09--23-blue)
+![Updated](https://img.shields.io/badge/updated-2026--10--03-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后更新：2026 年 9 月 23 日（北京时间）** · OpenAI 帮助页已点名 Best Buy 为参与零售商。全文精简改写，结论放到最前；购买渠道与截图保留原核对日期。
+> **最后更新：2026 年 10 月 3 日（北京时间）** · 复核 Best Buy 和 RaiseRight 商品页，面额和价格没有变化。OpenAI 帮助页 10 月 2 日更新后仍只点名 Best Buy；据此补充赠送订阅不能兑换、怀疑被盗刷怎么办、商店订阅怎么换成网页订阅。截图保留原核对日期。
 
 ## 先说结论
 
@@ -68,7 +68,7 @@ flowchart LR
 | **[BJ’s](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)** | $100 面值，卖 $98.99 | BJ’s 会员 | 数字卡，发到 BJ’s 登录邮箱 | 已经是 BJ’s 会员 |
 | [RaiseRight](https://www.raiseright.com/brands/1185-openai-chatgpt) | $15–$250，另收手续费 | 筹款组织的加入码或邀请链接 | 电子卡，先存在 RaiseRight Wallet | 已加入学校、团队筹款计划 |
 
-页面核对日期：Best Buy 为 9 月 19 日，BJ’s 与 RaiseRight 为 9 月 14 日，价格和供应以结账页为准。OpenAI 帮助页（9 月 23 日）点名了 Best Buy，同时说明这不是完整名单。
+页面核对日期：Best Buy 与 RaiseRight 为 10 月 3 日，BJ’s 为 9 月 14 日（10 月 3 日商品页打不开，没能复核），价格和供应以结账页为准。OpenAI 帮助页（10 月 2 日更新）点名了 Best Buy，同时说明这不是完整名单。
 
 <a id="best-buy-购买说明"></a>
 
@@ -187,8 +187,11 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 | 有余额，但结账没抵扣 | 核对账号、工作区、USD 币种和购买资格，再看 Wallet applied 和 Due today |
 | 余额比卡面少 | 先查有没有待付款项、购买记录和账单调整 |
 | 收据应付 $0 | 可能是 Wallet 付清了，不是套餐免费 |
+| PIN 没输错，却兑换不了，账号用的是赠送的订阅 | 帮助页说明，部分赠送订阅不能兑换，即使套餐名在支持列表里。联系 OpenAI Support |
 
 **退款：** 已兑换的余额不能退回原卡；用余额买的 ChatGPT 项目获批退款时，Wallet 付的那部分退回 Wallet。个人余额和 Business 工作区余额分开管理。
+
+**怀疑卡被别人兑换了：** 联系 OpenAI Support，提供账号邮箱、礼品卡的序列号（serial number，不是 PIN）、报错原文和发生时间（带时区）。PIN 不要发到公开的地方。
 
 ## 别买错：官方卡和第三方「ChatGPT 礼品卡」
 
@@ -223,7 +226,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 不想赌这一把的话，上表里的其他方式更稳。
 
-**Plus 还是 Pro 5×？** 日常写作、学习、办公和个人编程先选 Plus；Work / Codex 经常用到上限，再考虑 Pro 5×。按 [OpenAI 的计划说明](https://learn.chatgpt.com/docs/pricing)，Pro 5× 的 Work / Codex 用量是 Plus 的 5 倍。各模型每 5 小时能用多少，见我们整理的 [ChatGPT / Claude 速查表](https://github.com/Avarce/chatgpt-claude-cheatsheet)。
+**Plus 还是 Pro 5×？** 日常写作、学习、办公和个人编程先选 Plus；Work / Codex 经常用到上限，再考虑 Pro 5×。Pro 5× 就是官方的 Pro 100，Work / Codex 用量是 Plus 的 5 倍（[Tibo 9 月 29 日的说明](https://x.com/thsottiaux/status/2104951965184925941)），按 [OpenAI 的计划说明](https://learn.chatgpt.com/docs/pricing)目前没有 5 小时限制。各模型每 5 小时能用多少，见我们整理的 [ChatGPT / Claude 速查表](https://github.com/Avarce/chatgpt-claude-cheatsheet)。
 
 **关于 AONIR：** 本文由 AONIR 维护。我们提供 ChatGPT 会员充值，充值到你本人的账号，不需要密码；我们不卖礼品卡，也不是 OpenAI 的授权零售商。
 
@@ -302,7 +305,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 <details>
 <summary><strong>现在用 App Store / Google Play 订阅的，能改用 Wallet 续费吗？</strong></summary>
 
-不能直接抵扣。想改成网页订阅，先确认目标套餐能不能买、当前订阅什么时候到期，再决定换不换计费渠道。
+不能直接抵扣。官方的做法是：先在原来的商店（App Store 或 Google Play）取消订阅，等这一期到期结束，再用同一个 ChatGPT 账号在网页端订阅。兑换礼品卡不会取消现有的订阅。
 
 </details>
 
@@ -323,6 +326,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 ### 更新记录
 
+- **2026-10-03：** 复核 Best Buy、RaiseRight 商品页（无变化，BJ’s 未能复核）；按 OpenAI 帮助页 10 月 2 日的版本补充赠送订阅、盗刷处理和商店订阅转网页订阅；Pro 5× 注明即官方 Pro 100。
 - **2026-09-23：** OpenAI 帮助页已点名 Best Buy；全文精简，结论前置，合并重复说明；补充国内用户挂美国节点兑换的说明与风险；新增模型与额度速查表链接。
 - **2026-09-21：** AONIR 入口改为 Plus ¥168 / 月、Pro 5× ¥730 / 月微信自助充值。
 - **2026-09-19：** 新增 Best Buy 四档数字卡、商品页与结账截图。
