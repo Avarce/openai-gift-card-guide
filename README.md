@@ -226,7 +226,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 不想赌这一把的话，上表里的其他方式更稳。
 
-**Plus 还是 Pro 5×？** 日常写作、学习、办公和个人编程先选 Plus；Work / Codex 经常用到上限，再考虑 Pro 5×。Pro 5× 就是官方的 Pro 100，Work / Codex 用量是 Plus 的 5 倍（[Tibo 9 月 29 日的说明](https://x.com/thsottiaux/status/2104951965184925941)），按 [OpenAI 的计划说明](https://learn.chatgpt.com/docs/pricing)目前没有 5 小时限制。
+**Plus 还是 Pro 5×？** 日常写作、学习、办公和个人编程先选 Plus；Work / Codex 经常用到上限，再考虑 Pro 5×。5 倍还不够的，AONIR 也有 Pro 10×（官方 Pro 200，原 20×），¥1350 / 月，联系客服充值。Pro 5× 就是官方的 Pro 100，Work / Codex 用量是 Plus 的 5 倍（[Tibo 9 月 29 日的说明](https://x.com/thsottiaux/status/2104951965184925941)），按 [OpenAI 的计划说明](https://learn.chatgpt.com/docs/pricing)目前没有 5 小时限制。
 
 **关于 AONIR：** 本文由 AONIR 维护。我们提供 ChatGPT 会员充值，充值到你本人的账号，不需要密码；我们不卖礼品卡，也不是 OpenAI 的授权零售商。
 
