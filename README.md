@@ -4,7 +4,7 @@
 ![Updated](https://img.shields.io/badge/updated-2026--10--03-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后更新：2026 年 10 月 11 日（北京时间）** · 复核三个渠道的商品页：Best Buy 和 RaiseRight 的面额、价格没有变化；BJ’s 的价格没变，但商品页显示 UNAVAILABLE，当天下不了单。OpenAI 帮助页这次没能打开复核，规则仍按 10 月 2 日的版本。截图保留原核对日期。
+> **最后更新：2026 年 10 月 11 日（北京时间）** · 复核三个渠道的商品页：Best Buy 和 RaiseRight 的面额、价格没有变化；BJ’s 的价格没变，但商品页显示 UNAVAILABLE，当天下不了单。OpenAI 帮助页同日复核，仍是 10 月 2 日更新的版本，规则没有变化。截图保留原核对日期。
 
 ## 先说结论
 
@@ -326,7 +326,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 ### 更新记录
 
-- **2026-10-11：** 复核三个渠道的商品页：Best Buy（$25 / $50 / $100 / $200）和 RaiseRight（$15–$250）无变化；BJ’s 价格未变，但显示 UNAVAILABLE。
+- **2026-10-11：** 复核三个渠道的商品页：Best Buy（$25 / $50 / $100 / $200）和 RaiseRight（$15–$250）无变化；BJ’s 价格未变，但显示 UNAVAILABLE。OpenAI 帮助页同日复核，规则无变化。
 - **2026-10-03：** 复核 Best Buy、RaiseRight 商品页（无变化，BJ’s 未能复核）；按 OpenAI 帮助页 10 月 2 日的版本补充赠送订阅、盗刷处理和商店订阅转网页订阅；Pro 5× 注明即官方 Pro 100。
 - **2026-09-23：** OpenAI 帮助页已点名 Best Buy；全文精简，结论前置，合并重复说明；补充国内用户挂美国节点兑换的说明与风险；新增模型与额度速查表链接。
 - **2026-09-21：** AONIR 入口改为 Plus ¥168 / 月、Pro 5× ¥730 / 月微信自助充值。
