@@ -4,7 +4,7 @@
 ![Updated](https://img.shields.io/badge/updated-2026--10--03-blue)
 ![Region](https://img.shields.io/badge/currently-US%20only-critical)
 
-> **最后更新：2026 年 10 月 3 日（北京时间）** · 复核 Best Buy 和 RaiseRight 商品页，面额和价格没有变化。OpenAI 帮助页 10 月 2 日更新后仍只点名 Best Buy；据此补充赠送订阅不能兑换、怀疑被盗刷怎么办、商店订阅怎么换成网页订阅。截图保留原核对日期。
+> **最后更新：2026 年 10 月 11 日（北京时间）** · 复核三个渠道的商品页：Best Buy 和 RaiseRight 的面额、价格没有变化；BJ’s 的价格没变，但商品页显示 UNAVAILABLE，当天下不了单。OpenAI 帮助页这次没能打开复核，规则仍按 10 月 2 日的版本。截图保留原核对日期。
 
 ## 先说结论
 
@@ -65,10 +65,10 @@ flowchart LR
 | 渠道 | 面额 / 价格 | 门槛 | 交付 | 适合谁 |
 | --- | --- | --- | --- | --- |
 | **[Best Buy](https://www.bestbuy.com/product/openai-chatgpt-25-gift-card-digital/JJG34P73VL/sku/6688130)** | $25 / $50 / $100 / $200，按面值卖 | 普通 BestBuy.com 账号 | 数字卡，邮件和订单详情里给兑换信息 | 大多数人首选 |
-| **[BJ’s](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)** | $100 面值，卖 $98.99 | BJ’s 会员 | 数字卡，发到 BJ’s 登录邮箱 | 已经是 BJ’s 会员 |
+| **[BJ’s](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)** | $100 面值，卖 $98.99（10 月 11 日显示 UNAVAILABLE） | BJ’s 会员 | 数字卡，发到 BJ’s 登录邮箱 | 已经是 BJ’s 会员 |
 | [RaiseRight](https://www.raiseright.com/brands/1185-openai-chatgpt) | $15–$250，另收手续费 | 筹款组织的加入码或邀请链接 | 电子卡，先存在 RaiseRight Wallet | 已加入学校、团队筹款计划 |
 
-页面核对日期：Best Buy 与 RaiseRight 为 10 月 3 日，BJ’s 为 9 月 14 日（10 月 3 日商品页打不开，没能复核），价格和供应以结账页为准。OpenAI 帮助页（10 月 2 日更新）点名了 Best Buy，同时说明这不是完整名单。
+页面核对日期：三个渠道都是 10 月 11 日。BJ’s 当天在价格旁显示 UNAVAILABLE，我们没法确认是缺货还是别的原因，买之前先看商品页的状态。价格和供应以结账页为准。OpenAI 帮助页（10 月 2 日更新）点名了 Best Buy，同时说明这不是完整名单。
 
 <a id="best-buy-购买说明"></a>
 
@@ -102,7 +102,7 @@ flowchart LR
 
 ### BJ’s Wholesale Club
 
-[ChatGPT $100 · BJ’s](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)：$100 面值卖 $98.99（商品编号 360793），交付方式选 **Digital (Email)**，卡发到 BJ’s 登录邮箱，页面写的是 1–2 小时内发送。
+[ChatGPT $100 · BJ’s](https://www.bjs.com/product/chatgpt-100/3000000000006366253/?itemId=3000000000006366254)：$100 面值卖 $98.99（商品编号 360793），交付方式选 **Digital (Email)**，卡发到 BJ’s 登录邮箱，页面写的是 1–2 小时内发送。以上是 9 月 14 日商品页的写法；10 月 11 日复核时价格仍是 $98.99，但页面显示 UNAVAILABLE，不能加入购物车。
 
 <p align="center">
   <a href="./images/08-bjs-chatgpt-100-20260914.jpg">
@@ -326,6 +326,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 ### 更新记录
 
+- **2026-10-11：** 复核三个渠道的商品页：Best Buy（$25 / $50 / $100 / $200）和 RaiseRight（$15–$250）无变化；BJ’s 价格未变，但显示 UNAVAILABLE。
 - **2026-10-03：** 复核 Best Buy、RaiseRight 商品页（无变化，BJ’s 未能复核）；按 OpenAI 帮助页 10 月 2 日的版本补充赠送订阅、盗刷处理和商店订阅转网页订阅；Pro 5× 注明即官方 Pro 100。
 - **2026-09-23：** OpenAI 帮助页已点名 Best Buy；全文精简，结论前置，合并重复说明；补充国内用户挂美国节点兑换的说明与风险；新增模型与额度速查表链接。
 - **2026-09-21：** AONIR 入口改为 Plus ¥168 / 月、Pro 5× ¥730 / 月微信自助充值。
