@@ -213,7 +213,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 | 人在美国、账号按美元计费 | [看三个购买渠道](#现在在哪里购买) | Best Buy 最省事 |
 | 已有 OpenAI 支持的付款方式 | [ChatGPT 官网计划](https://chatgpt.com/pricing/) | 在自己的账号里直接结账 |
 | 想用微信充值 ChatGPT Plus | **[AONIR Plus ¥168 / 月](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_plus)** | 看过账号要求后自助下单，充值到本人账号 |
-| 经常用完 Plus 额度，需要更多 Work / Codex 用量 | **[AONIR Pro 100（5×）¥730 / 月](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro)**<br>**[AONIR Pro 200（10×）¥1400 / 月](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro_10x)** | 微信自助充值，先核对账号要求和库存 |
+| 经常用完 Plus 额度，需要更多 Work / Codex 用量 | **[AONIR&nbsp;Pro&nbsp;100&#8288;（5×）&#8288;¥730&nbsp;/&nbsp;月](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro)**<br>**[AONIR&nbsp;Pro&nbsp;200&#8288;（10×）&#8288;¥1400&nbsp;/&nbsp;月](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro_10x)** | 微信自助充值，先核对账号要求和库存 |
 | 有 iPhone / iPad，想自己用 Apple 礼品卡 | [Apple 礼品卡 4 步实测教程](https://github.com/Avarce/chatgpt-plus-china-guide#支付宝买美区礼品卡实测流程附截图) | 礼品卡进 Apple 账户，再在 ChatGPT iOS App 里订阅 |
 | 还没想好用哪种方式 | [没有海外信用卡的 5 种开通方法](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_compare) | 按设备、付款条件和后续维护比较 |
 
