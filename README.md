@@ -213,7 +213,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 | 人在美国、账号按美元计费 | [看三个购买渠道](#现在在哪里购买) | Best Buy 最省事 |
 | 已有 OpenAI 支持的付款方式 | [ChatGPT 官网计划](https://chatgpt.com/pricing/) | 在自己的账号里直接结账 |
 | 想用微信充值 ChatGPT Plus | **[AONIR Plus ¥168 / 月](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_plus)** | 看过账号要求后自助下单，充值到本人账号 |
-| 经常用完 Plus 额度，需要更多 Work / Codex 用量 | **[AONIR&nbsp;Pro&nbsp;100&#8288;（约&nbsp;10&nbsp;倍）&#8288;¥730&nbsp;/&nbsp;月](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro)**<br>**[AONIR&nbsp;Pro&nbsp;200&#8288;（约&nbsp;20&nbsp;倍）&#8288;¥1400&nbsp;/&nbsp;月](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro_10x)** | 微信自助充值，先核对账号要求和库存 |
+| 经常用完 Plus 额度，需要更多 Work / Codex 用量 | **[AONIR&nbsp;Pro&nbsp;100&#8288;（约&nbsp;10&nbsp;倍）&#8288;¥730&nbsp;/&nbsp;月](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro)**<br>**[AONIR&nbsp;Pro&nbsp;200&#8288;（约&nbsp;20&nbsp;倍）&#8288;¥1400&nbsp;/&nbsp;月](https://aonir.com/chatgpt-pro-200/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_pro_10x)** | 微信自助充值，先核对账号要求和库存 |
 | 有 iPhone / iPad，想自己用 Apple 礼品卡 | [Apple 礼品卡 4 步实测教程](https://github.com/Avarce/chatgpt-plus-china-guide#支付宝买美区礼品卡实测流程附截图) | 礼品卡进 Apple 账户，再在 ChatGPT iOS App 里订阅 |
 | 还没想好用哪种方式 | [没有海外信用卡的 5 种开通方法](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=openai_gift_card&utm_content=options_compare) | 按设备、付款条件和后续维护比较 |
 
@@ -226,7 +226,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 不想赌这一把的话，上表里的其他方式更稳。
 
-**Plus 还是 Pro？** 日常写作、学习、办公和个人编程先选 Plus；Work / Codex 经常用到上限，再考虑 Pro 100；还不够的，选 Pro 200，¥1400 / 月，同样微信自助充值。Pro 100 就是官方的 $100 档。美国时间 10 月 29 日起 Pro 的 Work / Codex 额度翻倍，Pro 100、Pro 200 分别约为 Plus 的 10 倍、20 倍（[OpenAI 帮助中心](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[Codex 负责人 Tibo 的说明](https://x.com/thsottiaux/status/2115850175868727621)），按 [OpenAI 的计划说明](https://learn.chatgpt.com/docs/pricing)目前没有 5 小时限制。Plus 的额度不变。
+**Plus 还是 Pro？** 日常写作、学习、办公和个人编程先选 Plus；Work / Codex 经常用到上限，再考虑 Pro 100；还不够的，选 Pro 200，¥1400 / 月，同样微信自助充值。Pro 100 就是官方的 $100 档。美国时间 10 月 29 日起 Pro 的 Work / Codex 额度翻倍，Pro 100、Pro 200 分别约为 Plus 的 10 倍、20 倍（[OpenAI 帮助中心](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[Codex 负责人 Tibo 的说明](https://x.com/thsottiaux/status/2115850175868727621)），按 [OpenAI 的计划说明](https://learn.chatgpt.com/docs/pricing)没有五小时限制。Plus 的额度不变。
 
 **关于 AONIR：** 本文由 AONIR 维护。我们提供 ChatGPT 会员充值，充值到你本人的账号，不需要密码；我们不卖礼品卡，也不是 OpenAI 的授权零售商。
 
@@ -326,7 +326,7 @@ Plus 标价 $20 / 月，但加上税费可能更高，别刚好按 $20 买卡。
 
 ### 更新记录
 
-- **2026-10-30：** OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍：AONIR 入口和「Plus 还是 Pro？」改为 Pro 100 约为 Plus 的 10 倍、Pro 200 约 20 倍。礼品卡渠道和兑换规则这次没有复核。
+- **2026-10-30：** OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍：AONIR 入口和「Plus 还是 Pro？」改为 Pro 100 约为 Plus 的 10 倍、Pro 200 约 20 倍。礼品卡渠道和兑换规则这次没有复核。同日稍后：Pro 200 链接换成新地址 `/chatgpt-pro-200/`，「目前没有 5 小时限制」改为「没有五小时限制」。
 - **2026-10-20：** AONIR 入口更新：Pro 两档改用官方名 Pro 100（5×）¥730 / 月、Pro 200（10×）¥1400 / 月，都能微信自助充值。
 - **2026-10-11：** 复核三个渠道的商品页：Best Buy（$25 / $50 / $100 / $200）和 RaiseRight（$15–$250）无变化；BJ’s 价格未变，但显示 UNAVAILABLE。OpenAI 帮助页同日复核，规则无变化。
 - **2026-10-03：** 复核 Best Buy、RaiseRight 商品页（无变化，BJ’s 未能复核）；按 OpenAI 帮助页 10 月 2 日的版本补充赠送订阅、盗刷处理和商店订阅转网页订阅；Pro 5× 注明即官方 Pro 100。
